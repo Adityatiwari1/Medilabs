@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Laboratory Glassware Blog & LinkedIn Posts | Medilab Exports</title>
+  <meta name="description" content="Explore expert guides, blogs, and LinkedIn posts on laboratory glassware, equipment, and borosilicate glass from Medilab Exports." />
+  <link rel="stylesheet" href="lab-glassware-blogs.css" />
+  <style>
+    /* ── Index-specific styles ── */
+    .index-hero {
+      background: linear-gradient(135deg, #0d47a1 0%, #1a73e8 55%, #00897b 100%);
+      color: #fff;
+      padding: 72px 24px 60px;
+      text-align: center;
+    }
+    .index-hero .hero-logo { font-size: 3rem; margin-bottom: 16px; }
+    .index-hero h1 {
+      font-family: 'Merriweather', Georgia, serif;
+      font-size: 2.4rem; font-weight: 700; line-height: 1.25; margin-bottom: 14px;
+    }
+    .index-hero p {
+      font-size: 1.05rem; opacity: 0.85; max-width: 540px; margin: 0 auto 28px;
+    }
+    .hero-meta {
+      display: flex; gap: 28px; justify-content: center; flex-wrap: wrap;
+      font-size: 0.85rem; opacity: 0.75;
+    }
+    .hero-meta span { display: flex; align-items: center; gap: 6px; }
+
+    /* ── Grid Section ── */
+    .grid-section {
+      max-width: 1100px; margin: 0 auto; padding: 60px 24px 20px;
+    }
+    .grid-section + .grid-section { padding-top: 20px; }
+    .section-label {
+      font-size: 0.75rem; font-weight: 700; text-transform: uppercase;
+      letter-spacing: 0.12em; color: var(--blue); margin-bottom: 10px;
+    }
+    .section-title {
+      font-family: 'Merriweather', Georgia, serif;
+      font-size: 1.7rem; font-weight: 700; color: var(--text); margin-bottom: 8px;
+    }
+    .section-desc {
+      font-size: 0.95rem; color: var(--text-muted); margin-bottom: 32px; max-width: 600px;
+    }
+
+    .content-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 24px;
+    }
+
+    /* ── Blog Card ── */
+    .blog-card {
+      background: var(--white); border-radius: var(--radius-lg);
+      box-shadow: var(--shadow); overflow: hidden;
+      display: flex; flex-direction: column;
+      transition: transform 0.22s, box-shadow 0.22s;
+      text-decoration: none; color: inherit;
+    }
+    .blog-card:hover {
+      transform: translateY(-4px); box-shadow: var(--shadow-lg);
+    }
+    .card-header {
+      background: linear-gradient(135deg, #e3f2fd 0%, #e0f2f1 100%);
+      padding: 24px 24px 18px; position: relative;
+    }
+    .card-header .article-number {
+      display: inline-flex; align-items: center; gap: 6px;
+      background: var(--blue); color: #fff; font-size: 0.68rem;
+      font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;
+      padding: 4px 12px; border-radius: 20px; margin-bottom: 12px;
+    }
+    .card-header .article-number.linkedin {
+      background: #0a66c2;
+    }
+    .card-header .card-icon {
+      font-size: 2rem; position: absolute; right: 20px; top: 20px; opacity: 0.35;
+    }
+    .card-header h2 {
+      font-family: 'Merriweather', Georgia, serif;
+      font-size: 1rem; font-weight: 700; color: var(--text); line-height: 1.4; margin: 0;
+      padding-right: 36px;
+    }
+    .card-body {
+      padding: 18px 24px 22px; flex: 1; display: flex; flex-direction: column;
+    }
+    .card-body p {
+      font-size: 0.875rem; color: var(--text-muted); line-height: 1.7;
+      flex: 1; margin-bottom: 18px;
+    }
+    .card-tags {
+      display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 18px;
+    }
+    .tag {
+      background: var(--blue-light); color: var(--blue-dark);
+      font-size: 0.68rem; font-weight: 600; padding: 3px 10px;
+      border-radius: 20px; text-transform: uppercase; letter-spacing: 0.06em;
+    }
+    .tag.linkedin {
+      background: #e8f0fe; color: #0a66c2;
+    }
+    .read-btn {
+      display: inline-flex; align-items: center; gap: 8px;
+      background: var(--blue); color: #fff; font-size: 0.85rem;
+      font-weight: 600; text-decoration: none; padding: 10px 20px;
+      border-radius: 50px; align-self: flex-start;
+      transition: background 0.2s, transform 0.2s;
+    }
+    .read-btn:hover { background: var(--blue-dark); transform: translateX(2px); }
+    .read-btn.linkedin { background: #0a66c2; }
+    .read-btn.linkedin:hover { background: #004182; }
+    .read-btn .arrow { font-size: 1rem; }
+
+    /* ── Divider ── */
+    .section-divider {
+      max-width: 1100px; margin: 40px auto 0; padding: 0 24px;
+    }
+    .section-divider hr {
+      border: none; height: 2px;
+      background: linear-gradient(90deg, var(--blue) 0%, var(--teal) 100%);
+      border-radius: 2px;
+    }
+
+    /* ── Footer CTA ── */
+    .footer-cta {
+      background: linear-gradient(135deg, var(--blue-dark) 0%, var(--blue) 60%, var(--teal) 100%);
+      text-align: center; color: #fff; padding: 56px 24px; margin-top: 60px;
+    }
+    .footer-cta h2 {
+      font-family: 'Merriweather', Georgia, serif;
+      font-size: 1.6rem; font-weight: 700; margin-bottom: 12px;
+    }
+    .footer-cta p { font-size: 0.95rem; opacity: 0.85; margin-bottom: 28px; }
+    .footer-cta a {
+      display: inline-flex; align-items: center; gap: 8px;
+      background: #fff; color: var(--blue-dark); font-size: 0.925rem;
+      font-weight: 700; text-decoration: none; padding: 14px 32px;
+      border-radius: 50px; box-shadow: 0 4px 20px rgba(0,0,0,0.25);
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .footer-cta a:hover {
+      transform: translateY(-2px); box-shadow: 0 8px 28px rgba(0,0,0,0.3);
+    }
+
+    @media (max-width: 640px) {
+      .index-hero h1 { font-size: 1.7rem; }
+      .content-grid { grid-template-columns: 1fr; }
+      .section-title { font-size: 1.3rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Hero -->
+  <header class="index-hero">
+    <div class="hero-logo">🔬</div>
+    <h1>Laboratory Glassware — Blogs &amp; LinkedIn Posts</h1>
+    <p>Expert guides, industry insights, and social content on laboratory glassware, equipment &amp; borosilicate glass.</p>
+    <div class="hero-meta">
+      <span>📄 4 Blog Articles</span>
+      <span>💼 11 LinkedIn Posts</span>
+      <span>🏢 Medilab Exports</span>
+    </div>
+  </header>
+
+  <!-- ═══════ BLOG ARTICLES ═══════ -->
+  <section class="grid-section">
+    <p class="section-label">Blog Series</p>
+    <h2 class="section-title">Blog Articles</h2>
+    <p class="section-desc">In-depth, SEO-optimized articles covering laboratory glassware topics.</p>
+
+    <div class="content-grid">
+
+      <a class="blog-card" href="blog-01-complete-guide-laboratory-glassware.html">
+        <div class="card-header">
+          <span class="article-number">Blog 01</span>
+          <span class="card-icon">📚</span>
+          <h2>Complete Guide to Laboratory Glassware for Research Labs</h2>
+        </div>
+        <div class="card-body">
+          <p>A comprehensive overview of laboratory glassware types, their uses, and best practices for selection and handling.</p>
+          <div class="card-tags">
+            <span class="tag">Guide</span><span class="tag">Research Labs</span><span class="tag">Glassware</span>
+          </div>
+          <span class="read-btn">Read Article <span class="arrow">→</span></span>
+        </div>
+      </a>
+
+      <a class="blog-card" href="blog-02-class-a-vs-class-b-laboratory-glassware.html">
+        <div class="card-header">
+          <span class="article-number">Blog 02</span>
+          <span class="card-icon">⚖️</span>
+          <h2>Difference Between Class A and Class B Laboratory Glassware</h2>
+        </div>
+        <div class="card-body">
+          <p>Understand the key differences in precision, tolerances, and applications between Class A and Class B certified glassware.</p>
+          <div class="card-tags">
+            <span class="tag">Class A</span><span class="tag">Class B</span><span class="tag">Precision</span>
+          </div>
+          <span class="read-btn">Read Article <span class="arrow">→</span></span>
+        </div>
+      </a>
+
+      <a class="blog-card" href="blog-03-top-10-essential-laboratory-equipment-chemistry-labs.html">
+        <div class="card-header">
+          <span class="article-number">Blog 03</span>
+          <span class="card-icon">🧪</span>
+          <h2>Top 10 Essential Laboratory Equipment for Chemistry Labs</h2>
+        </div>
+        <div class="card-body">
+          <p>Discover the must-have laboratory equipment every chemistry lab needs for accurate results.</p>
+          <div class="card-tags">
+            <span class="tag">Top 10</span><span class="tag">Chemistry</span><span class="tag">Equipment</span>
+          </div>
+          <span class="read-btn">Read Article <span class="arrow">→</span></span>
+        </div>
+      </a>
+
+      <a class="blog-card" href="blog-04-why-borosilicate-glass-laboratory-equipment.html">
+        <div class="card-header">
+          <span class="article-number">Blog 04</span>
+          <span class="card-icon">🔥</span>
+          <h2>Why Borosilicate Glass Is Used in Laboratory Equipment</h2>
+        </div>
+        <div class="card-body">
+          <p>Learn why borosilicate glass is the gold standard — thermal resistance, chemical durability, and optical clarity explained.</p>
+          <div class="card-tags">
+            <span class="tag">Borosilicate</span><span class="tag">Material Science</span><span class="tag">Durability</span>
+          </div>
+          <span class="read-btn">Read Article <span class="arrow">→</span></span>
+        </div>
+      </a>
+
+    </div>
+  </section>
+
+  <!-- Divider -->
+  <div class="section-divider"><hr /></div>
+
+  <!-- ═══════ LINKEDIN POSTS ═══════ -->
+  <section class="grid-section">
+    <p class="section-label">LinkedIn Content</p>
+    <h2 class="section-title">LinkedIn Posts</h2>
+    <p class="section-desc">Ready-to-publish LinkedIn posts following high-engagement B2B structure.</p>
+
+    <div class="content-grid">
+
+      <a class="blog-card" href="linkedin-post-01.html">
+        <div class="card-header">
+          <span class="article-number linkedin">LinkedIn #01</span>
+          <span class="card-icon">🧫</span>
+          <h2>5 Essential Types of Laboratory Glassware Every Lab Needs</h2>
+        </div>
+        <div class="card-body">
+          <p>Discover the 5 must-have glassware types every research lab needs for accurate experiments.</p>
+          <div class="card-tags">
+            <span class="tag linkedin">Lab Essentials</span><span class="tag linkedin">Glassware</span>
+          </div>
+          <span class="read-btn linkedin">View Post <span class="arrow">→</span></span>
+        </div>
+      </a>
+
+      <a class="blog-card" href="linkedin-post-02.html">
+        <div class="card-header">
+          <span class="article-number linkedin">LinkedIn #02</span>
+          <span class="card-icon">🏭</span>
+          <h2>Behind the Scenes: How Scientific Glassware Is Manufactured</h2>
+        </div>
+        <div class="card-body">
+          <p>A step-by-step look at the manufacturing process — from raw glass to finished lab instrument.</p>
+          <div class="card-tags">
+            <span class="tag linkedin">Manufacturing</span><span class="tag linkedin">Behind the Scenes</span>
+          </div>
+          <span class="read-btn linkedin">View Post <span class="arrow">→</span></span>
+        </div>
+      </a>
+
+      <a class="blog-card" href="linkedin-post-03.html">
+        <div class="card-header">
+          <span class="article-number linkedin">LinkedIn #03</span>
+          <span class="card-icon">🔥</span>
+          <h2>Why Borosilicate Glass Is the Standard in Laboratories</h2>
+        </div>
+        <div class="card-body">
+          <p>Why top research labs worldwide use borosilicate glass over soda-lime — and you should too.</p>
+          <div class="card-tags">
+            <span class="tag linkedin">Borosilicate</span><span class="tag linkedin">Standards</span>
+          </div>
+          <span class="read-btn linkedin">View Post <span class="arrow">→</span></span>
+        </div>
+      </a>
+
+      <a class="blog-card" href="linkedin-post-06.html">
+        <div class="card-header">
+          <span class="article-number linkedin">LinkedIn #06</span>
+          <span class="card-icon">🎯</span>
+          <h2>The Role of Precision Glassware in Scientific Research</h2>
+        </div>
+        <div class="card-body">
+          <p>Why precision glassware is critical for reliable results and reproducible experiments.</p>
+          <div class="card-tags">
+            <span class="tag linkedin">Precision</span><span class="tag linkedin">Research</span>
+          </div>
+          <span class="read-btn linkedin">View Post <span class="arrow">→</span></span>
+        </div>
+      </a>
+
+      <a class="blog-card" href="linkedin-post-07.html">
+        <div class="card-header">
+          <span class="article-number linkedin">LinkedIn #07</span>
+          <span class="card-icon">🔬</span>
+          <h2>Top Laboratory Instruments Used in Research Labs</h2>
+        </div>
+        <div class="card-body">
+          <p>The core instruments every research lab relies on daily — from beakers to desiccators.</p>
+          <div class="card-tags">
+            <span class="tag linkedin">Instruments</span><span class="tag linkedin">Research Labs</span>
+          </div>
+          <span class="read-btn linkedin">View Post <span class="arrow">→</span></span>
+        </div>
+      </a>
+
+      <a class="blog-card" href="linkedin-post-08.html">
+        <div class="card-header">
+          <span class="article-number linkedin">LinkedIn #08</span>
+          <span class="card-icon">🌍</span>
+          <h2>How We Export Laboratory Equipment to 35+ Countries</h2>
+        </div>
+        <div class="card-body">
+          <p>Our export process — packaging, logistics, and customs support for global delivery.</p>
+          <div class="card-tags">
+            <span class="tag linkedin">Export</span><span class="tag linkedin">Global Trade</span>
+          </div>
+          <span class="read-btn linkedin">View Post <span class="arrow">→</span></span>
+        </div>
+      </a>
+
+      <a class="blog-card" href="linkedin-post-12.html">
+        <div class="card-header">
+          <span class="article-number linkedin">LinkedIn #12</span>
+          <span class="card-icon">📦</span>
+          <h2>From Manufacturing to Export: Our Supply Chain Process</h2>
+        </div>
+        <div class="card-body">
+          <p>A transparent look at our 7-stage supply chain — from raw glass to your lab door.</p>
+          <div class="card-tags">
+            <span class="tag linkedin">Supply Chain</span><span class="tag linkedin">Transparency</span>
+          </div>
+          <span class="read-btn linkedin">View Post <span class="arrow">→</span></span>
+        </div>
+      </a>
+
+      <a class="blog-card" href="linkedin-post-16.html">
+        <div class="card-header">
+          <span class="article-number linkedin">LinkedIn #16</span>
+          <span class="card-icon">🛡️</span>
+          <h2>5 Common Myths About Laboratory Glassware Maintenance</h2>
+        </div>
+        <div class="card-body">
+          <p>Debunking 5 myths that could be shortening the life of your lab glassware.</p>
+          <div class="card-tags">
+            <span class="tag linkedin">Myths</span><span class="tag linkedin">Maintenance</span>
+          </div>
+          <span class="read-btn linkedin">View Post <span class="arrow">→</span></span>
+        </div>
+      </a>
+
+      <a class="blog-card" href="linkedin-post-17.html">
+        <div class="card-header">
+          <span class="article-number linkedin">LinkedIn #17</span>
+          <span class="card-icon">⚗️</span>
+          <h2>Behind the Design: Why Erlenmeyer Flasks Have That Shape</h2>
+        </div>
+        <div class="card-body">
+          <p>The 166-year-old design that nobody has improved — the engineering genius behind the conical flask.</p>
+          <div class="card-tags">
+            <span class="tag linkedin">Design</span><span class="tag linkedin">Science History</span>
+          </div>
+          <span class="read-btn linkedin">View Post <span class="arrow">→</span></span>
+        </div>
+      </a>
+
+      <a class="blog-card" href="linkedin-post-18.html">
+        <div class="card-header">
+          <span class="article-number linkedin">LinkedIn #18</span>
+          <span class="card-icon">🔍</span>
+          <h2>Why Supply Chain Transparency Matters in Lab Equipment</h2>
+        </div>
+        <div class="card-body">
+          <p>Why traceability and documentation are becoming essential in lab procurement.</p>
+          <div class="card-tags">
+            <span class="tag linkedin">Transparency</span><span class="tag linkedin">Procurement</span>
+          </div>
+          <span class="read-btn linkedin">View Post <span class="arrow">→</span></span>
+        </div>
+      </a>
+
+      <a class="blog-card" href="linkedin-post-20.html">
+        <div class="card-header">
+          <span class="article-number linkedin">LinkedIn #20</span>
+          <span class="card-icon">📋</span>
+          <h2>Checklist: How to Audit Your Laboratory Glassware Inventory</h2>
+        </div>
+        <div class="card-body">
+          <p>A practical 7-step audit checklist for lab managers to reduce waste and catch damage early.</p>
+          <div class="card-tags">
+            <span class="tag linkedin">Checklist</span><span class="tag linkedin">Lab Audit</span>
+          </div>
+          <span class="read-btn linkedin">View Post <span class="arrow">→</span></span>
+        </div>
+      </a>
+
+    </div>
+  </section>
+
+  <!-- Footer CTA -->
+  <footer class="footer-cta">
+    <h2>Need Laboratory Glassware?</h2>
+    <p>Medilab Exports — trusted manufacturer &amp; exporter of precision lab glassware worldwide.</p>
+    <a href="https://www.medilabexports.com" target="_blank" rel="noopener">
+      Visit Medilab Exports <span>→</span>
+    </a>
+  </footer>
+
+</body>
+</html>
