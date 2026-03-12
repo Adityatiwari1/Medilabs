@@ -136,6 +136,21 @@ body {
   padding-top: 0;
 }
 
+/* ── Back Link ─────────────────────────────────────── */
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--blue);
+  text-decoration: none;
+  margin-top: 24px;
+  margin-bottom: -16px;
+  transition: color 0.2s;
+}
+.back-link:hover { color: var(--blue-dark); }
+
 /* ── Row / Column Layout ────────────────────────────────────── */
 .row {
   display: flex;
