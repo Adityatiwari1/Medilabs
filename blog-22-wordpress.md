@@ -1,0 +1,261 @@
+# Blog 22 – WordPress Body Content (Paste into WP Editor > Text/HTML View)
+
+**Title:** Laboratory Supply Distributor Catalogue: 8 Steps to Build One for a New Distribution Business
+**Focus Keyword:** laboratory supply distributor catalogue
+**Permalink:** laboratory-supply-distributor-catalogue
+**Category:** Distribution Business & B2B Growth Content
+**Tags:** laboratory supply distributor catalogue, start lab supply distribution, lab glassware distributor, OEM laboratory glassware, laboratory equipment distribution business, ISO certified lab supplies, distributor catalogue structure
+
+---
+
+<p>A laboratory supply distributor catalogue is the single document that defines what a new distribution business sells, at what specifications, and at what price - and it is the primary tool institutional buyers use to evaluate whether your business can supply what their laboratory needs. New distributors who build their catalogue with the correct structure, product specifications, ISO documentation, and pricing architecture from the start spend less time reworking their offering and win institutional accounts faster than those who assemble a product list reactively as orders come in.</p>
+
+<p>This guide covers 8 steps to build a <strong>laboratory supply distributor catalogue</strong> for a new laboratory glassware and equipment distribution business - from defining product scope and qualifying manufacturing partners through to pricing structure, documentation packaging, OEM options, and catalogue positioning with institutional buyers. Each step reflects the supplier-side and buyer-side requirements that determine whether a distributor catalogue generates purchase orders or gets archived.</p>
+
+<p>Medilab Exports Consortium has supplied ISO-certified borosilicate 3.3 laboratory glassware to distribution partners across 40+ countries for over 60 years. We build <strong>laboratory supply distributor catalogue</strong> content with our partners as a standard part of new distributor onboarding - providing product data, ISO documentation packages, image assets, and OEM options that distributors use directly in their own catalogue production. The 8 steps in this guide reflect the catalogue-building process we see succeed consistently across new distributor relationships in pharmaceutical, research, and clinical diagnostic supply markets.</p>
+
+<figure class="wp-block-image">
+<img src="https://medilabexports.com/wp-content/uploads/2026/06/laboratory-supply-distributor-catalogue-building-steps.png" alt="laboratory supply distributor catalogue: distribution business owner reviewing product specification sheets, ISO certificates, and pricing tiers on a desk to build a new lab glassware and equipment catalogue for institutional buyers" title="Laboratory Supply Distributor Catalogue: 8 Steps to Build One for a New Distribution Business" width="800" height="450" loading="lazy" />
+<figcaption>Building a laboratory supply distributor catalogue: product scope definition, manufacturing partner qualification, ISO documentation packaging, and pricing tier architecture are the four foundations that determine whether a new distribution business wins institutional accounts</figcaption>
+</figure>
+
+<nav class="lab-toc" style="background:#f0f7ff;border-left:4px solid #0073aa;padding:20px 24px;border-radius:4px;margin:24px 0;">
+<h2 style="margin-top:0;">Table of Contents</h2>
+<ol>
+<li><a href="#why-catalogue-matters">Why the Laboratory Supply Distributor Catalogue Determines Early Business Success</a></li>
+<li><a href="#step-1">Step 1: Define Your Product Scope and Target Market Segment</a></li>
+<li><a href="#step-2">Step 2: Qualify and Onboard ISO-Certified Manufacturing Partners</a></li>
+<li><a href="#step-3">Step 3: Establish Product Specifications and Documentation Standards</a></li>
+<li><a href="#step-4">Step 4: Organize Catalogue Structure for Laboratory Buyer Navigation</a></li>
+<li><a href="#step-5">Step 5: Build Your Pricing Architecture - List, Volume, and Institutional Tiers</a></li>
+<li><a href="#step-6">Step 6: Compile the Documentation Package for Each Product Line</a></li>
+<li><a href="#step-7">Step 7: Add Private Label and OEM Options for Market Differentiation</a></li>
+<li><a href="#step-8">Step 8: Launch, Collect Feedback, and Update the Catalogue Systematically</a></li>
+<li><a href="#catalogue-table">Laboratory Supply Distributor Catalogue: Component Checklist Table</a></li>
+<li><a href="#positioning">How to Position Your Catalogue with Institutional Buyers</a></li>
+<li><a href="#faq">Frequently Asked Questions</a></li>
+</ol>
+</nav>
+
+<h2 id="why-catalogue-matters">Why the Laboratory Supply Distributor Catalogue Determines Early Business Success</h2>
+
+<p>Institutional laboratory buyers - procurement managers at pharmaceutical manufacturers, hospital central stores, university research laboratories, and clinical diagnostic centers - evaluate new distributors primarily through the catalogue. Before a first order is placed, the buyer reviews product range, specification depth, ISO compliance documentation, and pricing structure. A catalogue that answers all four questions confidently creates the conditions for a purchase order. A catalogue that leaves any of them ambiguous sends the buyer back to an established supplier who answers them without effort.</p>
+
+<p>New distributors frequently underestimate how much the catalogue communicates beyond its product list. A <strong>laboratory supply distributor catalogue</strong> that includes ISO class designations, standard reference numbers, and lot-level documentation commitments signals to a pharmaceutical or regulated laboratory buyer that the distributor understands their compliance requirements - before any conversation has taken place. A catalogue that lists only product names and prices signals the opposite. The difference in first-impression credibility directly affects conversion rates from catalogue distribution to first orders.</p>
+
+<p>The catalogue also defines the distributor's operational commitments. Product lines included in the catalogue create an implicit promise of availability, documentation, and consistent specification. Building the catalogue deliberately - with products, partners, and documentation scope confirmed before publication - prevents the credibility damage that comes from quoting a product from the catalogue and then failing to deliver the specification or paperwork the buyer expects.</p>
+
+<h2 id="step-1">Step 1: Define Your Product Scope and Target Market Segment</h2>
+
+<p>Product scope definition is the first decision in building a laboratory supply distributor catalogue and the decision that constrains every subsequent step. New distributors who attempt to list every category of laboratory supply - glassware, plasticware, chemicals, instruments, consumables - spread procurement relationships, inventory investment, and technical knowledge too thin to compete effectively in any single category. A focused product scope in two to three related categories allows deeper inventory coverage, stronger supplier relationships, and more credible technical positioning than a broad but shallow offering.</p>
+
+<p>For laboratory glassware distribution, the core product scope covers volumetric glassware (volumetric flasks, graduated cylinders, burettes, pipettes), general glassware (beakers, Erlenmeyer flasks, round-bottom flasks), reagent and media storage vessels, and culture and sample containers. Each sub-category serves different buyer needs and requires different documentation depth. Volumetric instruments require ISO 4787 calibration documentation for regulated buyers. Reagent bottles require ISO 719 hydrolytic resistance certification for pharmaceutical and pH-critical applications. Understanding which documentation each product line requires is part of scope definition, not a detail to resolve later.</p>
+
+<p>Target market segment shapes scope further. A distributor targeting pharmaceutical manufacturers needs Class A volumetric instruments with full calibration documentation, WHO-GMP compliant traceability records, and demonstrated ISO 9001 supplier qualification from their manufacturing partners. A distributor targeting university research laboratories needs a broader product range at competitive price points, with Class B instruments acceptable for most applications. Defining the target segment before building the <strong>laboratory supply distributor catalogue</strong> prevents scope decisions that make the catalogue unsuitable for the buyer types the business needs to acquire.</p>
+
+<h2 id="step-2">Step 2: Qualify and Onboard ISO-Certified Manufacturing Partners</h2>
+
+<p>Manufacturing partner qualification is the structural foundation of a credible laboratory supply distributor catalogue. The distributor's catalogue is only as technically reliable as the supplier behind each product line - and institutional buyers verify supplier credentials as part of their own procurement qualification processes. A distributor whose manufacturing partners hold ISO 9001 quality management system certification, ISO 4787 product compliance documentation, and WHO-GMP manufacturing credentials can present these credentials as part of their own catalogue authority. A distributor whose suppliers cannot provide this documentation cannot claim it, regardless of how the catalogue is written.</p>
+
+<p>Formal supplier qualification for a new distribution business includes: requesting and reviewing the manufacturer's ISO 9001 certificate, product-level ISO compliance documentation (ISO 4787 for volumetric glassware, ISO 3585 for material composition), quality inspection records, and export compliance documentation. A manufacturing partner who cannot provide current, lot-level documentation for all products in the scope of your catalogue is not a suitable partner for institutional distribution - regardless of their price competitiveness. For guidance on evaluating manufacturing partner credentials, see our guide on <a href="blog-09-oem-laboratory-glassware-manufacturing-distributors.html">OEM laboratory glassware manufacturing for distributors</a>.</p>
+
+<p>Onboarding documentation from each qualified manufacturing partner forms the evidentiary base of your <strong>laboratory supply distributor catalogue</strong>. This includes: product specification sheets with nominal sizes, ISO class designations, and standard references; material certificates; sample calibration reports; and the manufacturer's certificate of conformance format for each product category. These documents feed directly into the catalogue product data and into the documentation package the distributor delivers with each customer order.</p>
+
+<h2 id="step-3">Step 3: Establish Product Specifications and Documentation Standards</h2>
+
+<p>Product specification standardization defines what information appears for every product in the laboratory supply distributor catalogue - and consistency here is what separates professional distributor catalogues from ad hoc product lists. For each product line, define a standard specification format that includes: product name, product code, nominal size or volume, ISO class (for volumetric instruments), applicable ISO standard references, material specification (borosilicate 3.3, confirming ISO 3585), packaging unit, and available documentation set.</p>
+
+<p>Documentation standards define which certificates accompany each product category as standard, and which are available on request. For volumetric glassware sold to pharmaceutical buyers, the standard documentation set is: certificate of conformance, ISO 4787 calibration report, material composition certificate, and quality inspection release record. For general glassware sold to research laboratories, a certificate of conformance with ISO standard reference may be sufficient as standard, with additional documentation available on request. Defining these standards in the catalogue itself - or in the accompanying documentation guide - tells buyers exactly what to expect without requiring a custom quotation for every order.</p>
+
+<p>For regulated pharmaceutical and clinical buyers, the <strong>laboratory supply distributor catalogue</strong> should note which products carry lot-level traceability documentation as standard. Lot-level traceability - where the certificate of conformance identifies the specific production batch, test date, and nominal tolerance - is a requirement under WHO-GMP and ISO 17025 incoming material qualification procedures. See our guide on <a href="blog-12-laboratory-glassware-quality-standards.html">laboratory glassware quality standards</a> for the full regulatory framework that drives these documentation requirements.</p>
+
+<h2 id="step-4">Step 4: Organize Catalogue Structure for Laboratory Buyer Navigation</h2>
+
+<p>Catalogue structure determines how quickly a laboratory buyer can locate the product they need and confirm it meets their specification. Institutional buyers who receive a poorly organized catalogue default to requesting a custom quotation rather than selecting from the catalogue - eliminating the time efficiency advantage that a well-built catalogue provides. The structure of a <strong>laboratory supply distributor catalogue</strong> should mirror the way laboratory buyers think about their procurement, not the way a manufacturer organizes production.</p>
+
+<p>The most effective structure for a laboratory glassware distributor catalogue organizes products by function first (volumetric measurement instruments, reagent and media storage, culture vessels, general laboratory glassware), then by product type within each function (volumetric flasks, graduated cylinders, burettes, pipettes within volumetric measurement), then by nominal size or volume within each product type. This three-level hierarchy allows a procurement manager to navigate directly to the product category they need without reading unrelated sections.</p>
+
+<p>Each product entry should follow the standardized specification format defined in Step 3, with consistent column layout across all product types. ISO class designations should appear as a distinct field, not buried in a product description paragraph. Packaging unit (each, pack of 10, case of 100) should appear as a separate field because it directly affects the calculation of per-unit cost from the list price. A clear, consistent layout reduces the number of follow-up queries from buyers and increases catalogue-to-order conversion rates for new distributors establishing their first institutional accounts.</p>
+
+<h2 id="step-5">Step 5: Build Your Pricing Architecture - List, Volume, and Institutional Tiers</h2>
+
+<p>Pricing architecture in a laboratory supply distributor catalogue typically operates on three tiers: published list price (the price available to any buyer ordering from the catalogue at standard quantities), volume price (the discounted price available at defined quantity thresholds, typically delivered by custom quotation), and institutional contract price (the fixed price negotiated under annual supply agreements with large accounts). Publishing only one price in the catalogue creates confusion about what large buyers should expect to pay and may price out institutional accounts who default to an established supplier with transparent volume pricing.</p>
+
+<p>For a new distribution business building its first catalogue, the practical approach is to publish list prices in the catalogue for all standard packaging quantities and add a clear statement that volume pricing and institutional contract terms are available by quotation above defined quantity thresholds. This approach publishes a price that anchors the value of the product without locking the distributor into a single price for all order types. As the business grows and establishes consistent volume buyers, the catalogue can evolve to show tiered pricing grids for the most frequently ordered lines.</p>
+
+<p>Margin structure is not a catalogue element but must be calculated before list prices are set. A new laboratory glassware distributor typically works on gross margins between 20% and 40% depending on product category, order size, and competitive market conditions. Published list prices must cover landed cost (manufacturing cost plus freight plus import duty), operating overhead, and target margin while remaining competitive with established distributors serving the same market. Setting prices before confirming landed cost from qualified manufacturing partners produces list prices that are either uncompetitive or unsustainable - completing Step 2 before Step 5 is therefore a prerequisite, not an option.</p>
+
+<h2 id="step-6">Step 6: Compile the Documentation Package for Each Product Line</h2>
+
+<p>The documentation package is the component of the <strong>laboratory supply distributor catalogue</strong> offering that regulated buyers evaluate most carefully before qualifying a new distributor. A distributor who can present a complete, current documentation package for each product line at the time of catalogue launch removes the most common barrier to first orders from pharmaceutical and clinical diagnostic buyers. Assembling this package after catalogue publication - when a customer requests it - creates delays that damage credibility and may cause the buyer to revert to an established supplier while waiting.</p>
+
+<p>The documentation package for each product line consists of: the manufacturer's product-level ISO compliance certificate (ISO 4787 for volumetric instruments, ISO 719 for reagent bottles and storage vessels), the manufacturer's ISO 9001 quality management system certificate, a sample certificate of conformance showing the lot-level format buyers will receive with each shipment, the material composition certificate for borosilicate 3.3 glass products, and a sample calibration report for Class A volumetric instruments. These five documents answer the documentation audit questions that pharmaceutical procurement managers ask when qualifying a new supplier - and a distributor who can produce all five immediately demonstrates that their supply chain is already qualified, not in progress.</p>
+
+<p>Documentation should be organized by product category and readily retrievable during buyer qualification conversations. A well-organized documentation package that accompanies the <strong>laboratory supply distributor catalogue</strong> during initial buyer presentations shortens the qualification timeline from weeks to days for institutional buyers with established supplier qualification procedures. For context on what documentation buyers expect at goods receipt, see our guide on what buyers look for when conducting a <a href="blog-19-laboratory-supply-catalogue-vs-custom-quotation.html">laboratory supply catalogue vs custom quotation</a> evaluation - which covers the documentation completeness criteria that determine whether a catalogue order proceeds to purchase order.</p>
+
+<h2 id="step-7">Step 7: Add Private Label and OEM Options for Market Differentiation</h2>
+
+<p>Private label and OEM options allow a distributor to present products under their own brand identity rather than the manufacturer's, creating product differentiation that cannot be directly price-compared by buyers across competing distributors. For a new laboratory glassware distribution business, private label options represent a significant competitive advantage in markets where established distributors sell the same ISO-certified borosilicate products at similar price points. A distributor whose catalogue includes products with their own brand labeling, their own product coding, and their own documentation format occupies a distinct market position that manufacturer-branded reselling cannot achieve.</p>
+
+<p>OEM arrangements with a manufacturing partner typically require minimum order quantities above standard catalogue thresholds and a lead time for label production and packaging setup. A new distributor should assess OEM options during the manufacturing partner qualification stage (Step 2) - confirming minimum order quantities, lead times, labeling specifications, and documentation format flexibility before including OEM product lines in the catalogue. Committing to OEM-listed products in the catalogue without a confirmed manufacturing arrangement creates fulfillment risk that no distributor in its first year of operation should carry.</p>
+
+<p>When building the OEM section of the <strong>laboratory supply distributor catalogue</strong>, include the same specification depth as manufacturer-branded products: ISO class, applicable standard references, material specification, and documentation package. Buyers who select OEM products from a distributor catalogue apply the same compliance evaluation as for standard products. OEM labeling changes the brand identity on the product; it does not change the ISO specification requirement or the documentation standard that pharmaceutical and regulated buyers expect. Confirm all specification and documentation commitments with the manufacturing partner in writing before including any OEM product in the catalogue.</p>
+
+<h2 id="step-8">Step 8: Launch, Collect Feedback, and Update the Catalogue Systematically</h2>
+
+<p>A laboratory supply distributor catalogue is a living document, not a one-time production. The initial launch version establishes the product scope, specifications, pricing architecture, and documentation framework. Subsequent versions refine product selection based on actual buyer behavior - adding the sizes and configurations that generate the most enquiries, removing products that generate no interest after 12 months, and adding new product lines as manufacturing partner relationships expand.</p>
+
+<p>Post-launch feedback collection should be systematic. Track which product lines generate purchase orders versus which generate enquiries without orders - the gap between the two reveals either a pricing issue, a specification gap, or a documentation deficiency. Track which product lines generate documentation requests beyond what the standard package provides - these requests identify specification levels that the catalogue is not currently meeting for a segment of your buyer base. Each data point informs the next catalogue revision and makes the <strong>laboratory supply distributor catalogue</strong> progressively more aligned with what institutional buyers in your target market actually need.</p>
+
+<p>Catalogue version control matters for regulated buyers. Pharmaceutical and ISO 17025-accredited laboratory buyers maintain records of the catalogue version they used to place a specific order - this is part of their supplier qualification documentation trail. Issue catalogue updates with a version number and effective date, and retain previous versions in your own records. Notify institutional account holders when a new version supersedes the previous one, particularly when product specifications, ISO class designations, or documentation standards change between versions. Version discipline distinguishes a professional distribution operation from an ad hoc product list - a distinction that institutional buyers notice and value.</p>
+
+<figure class="wp-block-image">
+<img src="https://medilabexports.com/wp-content/uploads/2026/06/laboratory-supply-distributor-catalogue-oem-private-label.png" alt="laboratory supply distributor catalogue: private label OEM borosilicate laboratory glassware bottles with distributor branding alongside ISO 4787 calibration certificates and manufacturer documentation package on a distribution desk" title="Laboratory Supply Distributor Catalogue OEM and Private Label Options for Market Differentiation" width="800" height="450" loading="lazy" />
+<figcaption>Private label and OEM options in a laboratory supply distributor catalogue: borosilicate 3.3 products under distributor branding with full ISO documentation - the combination that creates genuine market differentiation for new distribution businesses entering competitive institutional buyer markets</figcaption>
+</figure>
+
+<h2 id="catalogue-table">Laboratory Supply Distributor Catalogue: Component Checklist Table</h2>
+
+<p>The table below provides a component checklist for building a complete <strong>laboratory supply distributor catalogue</strong> - covering what each component achieves, what information it requires from the manufacturing partner, and what its absence communicates to institutional buyers.</p>
+
+<table>
+<thead>
+<tr>
+<th><strong>Catalogue Component</strong></th>
+<th><strong>What It Achieves</strong></th>
+<th><strong>Required from Manufacturing Partner</strong></th>
+<th><strong>What Absence Signals to Buyer</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Product specification (size, class, standard reference)</td>
+<td>Confirms product meets buyer's technical requirement</td>
+<td>Product data sheet with ISO class and standard numbers</td>
+<td>Distributor does not understand specification requirements</td>
+</tr>
+<tr>
+<td>Material specification (borosilicate 3.3, ISO 3585)</td>
+<td>Confirms glass composition for chemical resistance applications</td>
+<td>Material composition certificate</td>
+<td>Material substitution risk not addressed</td>
+</tr>
+<tr>
+<td>ISO compliance statement (ISO 4787, ISO 719, ISO 9001)</td>
+<td>Demonstrates regulatory compliance of supply chain</td>
+<td>Current ISO certificates by standard and scope</td>
+<td>Supplier not qualified for regulated procurement</td>
+</tr>
+<tr>
+<td>Documentation package description</td>
+<td>Sets buyer expectation for what ships with each order</td>
+<td>Sample CoC, calibration report, inspection record formats</td>
+<td>Documentation scope unknown; buyer must request details</td>
+</tr>
+<tr>
+<td>List pricing with packaging units</td>
+<td>Enables buyer to calculate per-unit cost and budget</td>
+<td>Confirmed cost price to set margin correctly</td>
+<td>Cannot compare value; buyer defaults to known supplier</td>
+</tr>
+<tr>
+<td>Volume pricing statement or threshold</td>
+<td>Opens door to institutional account discussion</td>
+<td>Manufacturer's volume discount structure</td>
+<td>Buyer assumes no volume flexibility; no incentive to consolidate</td>
+</tr>
+<tr>
+<td>OEM / private label availability note</td>
+<td>Differentiates distributor from standard resellers</td>
+<td>MOQ, lead time, label spec from manufacturer</td>
+<td>Catalogue indistinguishable from competitor offering</td>
+</tr>
+<tr>
+<td>Version number and effective date</td>
+<td>Supports buyer's supplier qualification audit trail</td>
+<td>Internal version control discipline</td>
+<td>Not suitable for regulated procurement record-keeping</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="positioning">How to Position Your Catalogue with Institutional Buyers</h2>
+
+<p>Positioning a <strong>laboratory supply distributor catalogue</strong> with institutional buyers requires addressing the question that every procurement manager asks when considering a new supplier: why should we qualify a new distributor when our current supplier already delivers? The answer must come from the catalogue itself - through specification depth that exceeds the incumbent, documentation completeness that meets or surpasses current supply, pricing that offers clear value at the buyer's volume level, or OEM options that the incumbent does not provide.</p>
+
+<p>New distributors who present their catalogue alongside a manufacturer's ISO certification portfolio, a sample documentation set, and a clear OEM option give institutional procurement managers the information they need to justify a qualification process. Presenting the catalogue alone, without supporting documentation, positions the distributor as unqualified rather than new. The documentation is not a supplement to the catalogue - it is the credential that validates everything the catalogue claims. Both should be assembled and presented together from the first buyer contact.</p>
+
+<p>For pharmaceutical and regulated laboratory buyers specifically, the catalogue positioning conversation should reference the applicable compliance requirements explicitly. A distributor whose catalogue states "ISO 4787 Class A calibration reports included as standard" speaks the language of WHO-GMP procurement in a way that generic "quality products" language does not. Regulated buyers qualify on documentation first and price second. The <a href="https://www.iso.org/iso-9001-quality-management.html" target="_blank" rel="noopener noreferrer">ISO 9001 quality management standard</a> requires documented supplier selection criteria from buyers operating under quality management systems - and a distributor whose catalogue explicitly satisfies those criteria reduces the buyer's qualification workload, which is a purchasing decision advantage that new distributors consistently underestimate.</p>
+
+<p>For distributors sourcing from qualified manufacturers, the <a href="https://www.who.int/publications/i/item/9789241516495" target="_blank" rel="noopener noreferrer">WHO Good Manufacturing Practices</a> documentation requirements for pharmaceutical incoming material qualification define the documentation scope that the distributor's catalogue and order fulfillment process must support. A distributor who can deliver WHO-GMP-compatible documentation as standard - rather than on special request - reaches a supplier qualification decision with pharmaceutical buyers faster than one who treats documentation as a custom service. Building this capability into the catalogue and fulfillment process from launch is significantly easier than retrofitting it after institutional accounts request it.</p>
+
+<h2 id="faq">Frequently Asked Questions</h2>
+
+<style>
+.faq-item { border: 1px solid #dde3ec; border-radius: 6px; margin-bottom: 10px; overflow: hidden; }
+.faq-question { background: #f4f8fc; padding: 16px 20px; cursor: pointer; display: flex; justify-content: space-between; align-items: center; font-weight: 600; font-size: 16px; color: #1a2e4a; user-select: none; }
+.faq-question:hover { background: #e6f0fa; }
+.faq-question::after { content: '+'; font-size: 22px; font-weight: 400; color: #0073aa; flex-shrink: 0; margin-left: 12px; transition: transform 0.3s; }
+.faq-item.open .faq-question::after { content: '-'; }
+.faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.35s ease, padding 0.35s ease; padding: 0 20px; background: #fff; }
+.faq-item.open .faq-answer { max-height: 600px; padding: 16px 20px; }
+</style>
+
+<div class="faq-wrapper">
+
+<div class="faq-item">
+<div class="faq-question">How many products should a new laboratory supply distributor catalogue include?</div>
+<div class="faq-answer"><p>A new <strong>laboratory supply distributor catalogue</strong> should cover 30 to 80 product lines in two to three product categories at launch - enough to offer meaningful choice within each category without spreading inventory investment and supplier relationships too thin. New distributors who launch with 200+ products listed before establishing reliable supply for any of them create fulfillment risk that damages buyer relationships from the first order. A focused initial catalogue with deep inventory coverage in a narrow category is consistently more effective at winning and retaining institutional accounts than a broad catalogue with shallow coverage across many categories. Expand product range in subsequent catalogue versions as supply relationships are confirmed and buyer feedback identifies demand.</p></div>
+</div>
+
+<div class="faq-item">
+<div class="faq-question">What ISO certifications must a manufacturing partner hold for pharmaceutical laboratory distribution?</div>
+<div class="faq-answer"><p>A manufacturing partner supplying products for a <strong>laboratory supply distributor catalogue</strong> targeting pharmaceutical laboratories must hold: ISO 9001 quality management system certification (current, with audit scope covering laboratory glassware manufacture), product-level ISO compliance documentation (ISO 4787 for volumetric instruments, ISO 3585 for borosilicate 3.3 material confirmation, ISO 719 HGB 1 for reagent and storage vessels), and lot-level calibration reports for Class A volumetric products. WHO-GMP manufacturing credentials are additionally required for pharmaceutical API manufacturing customers, though not for all pharmaceutical procurement contexts. Confirm the scope and currency of all certificates before including the manufacturer's products in your catalogue.</p></div>
+</div>
+
+<div class="faq-item">
+<div class="faq-question">Should list prices appear in a laboratory supply distributor catalogue?</div>
+<div class="faq-answer"><p>Yes, for most distribution business models. A <strong>laboratory supply distributor catalogue</strong> that omits pricing requires buyers to submit a quotation request before they can evaluate cost - adding friction to the buying process and slowing catalogue-to-order conversion. Publishing list prices at standard packaging quantities with a clear statement that volume pricing is available by quotation provides price transparency without locking institutional buyers into a single price point. The exception is distributor catalogues used exclusively in direct account management contexts where all pricing is negotiated individually - in those cases, a price-on-application format is appropriate, but most new distribution businesses benefit more from published pricing than from requiring every buyer to request a quotation before making a decision.</p></div>
+</div>
+
+<div class="faq-item">
+<div class="faq-question">How long does it take to build and launch a complete laboratory supply distributor catalogue?</div>
+<div class="faq-answer"><p>A complete initial <strong>laboratory supply distributor catalogue</strong> covering two to three product categories with full ISO documentation, specification data, and pricing can be built in 8 to 12 weeks from the point of manufacturing partner qualification. The longest single step is typically documentation assembly and verification - confirming that all certificates are current, correctly formatted, and match the product specifications listed in the catalogue. Distribution businesses that begin documentation collection during manufacturing partner qualification (Step 2) rather than after catalogue layout is completed reduce the build timeline significantly. Working with a manufacturing partner who provides pre-formatted documentation packages as part of distributor onboarding reduces this timeline further still.</p></div>
+</div>
+
+<div class="faq-item">
+<div class="faq-question">What is the minimum order quantity for private label laboratory glassware?</div>
+<div class="faq-answer"><p>Minimum order quantities (MOQ) for private label laboratory glassware vary by product type and manufacturer, but typically range from 100 to 500 units per size for borosilicate glassware items. Simpler label formats - paper or adhesive over-labels on standard packaging - may have lower MOQs than screen-printed or enamel-applied labeling on the glass itself. New distributors building a <strong>laboratory supply distributor catalogue</strong> with private label options should confirm MOQs during manufacturing partner qualification and use them to set the minimum order commitment they list in the catalogue. Including private label options with MOQs below what the manufacturing partner can reliably deliver creates fulfillment problems that damage newly established institutional account relationships.</p></div>
+</div>
+
+<div class="faq-item">
+<div class="faq-question">How should a new distributor handle product specifications they cannot independently verify?</div>
+<div class="faq-answer"><p>List only specifications in the <strong>laboratory supply distributor catalogue</strong> that you can support with documentation from your manufacturing partner. If a manufacturer states that a product is "ISO 4787 Class A" but cannot provide a calibration report confirming this, do not list it as Class A in your catalogue. Claiming a specification that cannot be documented exposes the distributor to liability if the product fails to perform to the stated class, and creates compliance risk for regulated laboratory buyers who rely on catalogue specifications in their procurement records. If a specification cannot be confirmed, either obtain the supporting documentation before listing the product or list the product without the unconfirmed specification claim until documentation is available.</p></div>
+</div>
+
+<div class="faq-item">
+<div class="faq-question">Can Medilab Exports support a new distributor in building their laboratory supply catalogue?</div>
+<div class="faq-answer"><p>Yes. Medilab Exports Consortium provides new distribution partners with a full onboarding documentation package as part of establishing a new distributor relationship - including product data sheets, ISO certificate copies, sample certificate of conformance formats, calibration report examples, and OEM/private label option details. This package provides the core data required to build a complete and technically credible <strong>laboratory supply distributor catalogue</strong> for pharmaceutical, research, and clinical diagnostic market segments. Contact our export team to discuss distributor partnership requirements, product scope, minimum order commitments, documentation scope, and OEM options for your distribution market.</p></div>
+</div>
+
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var faqItems = document.querySelectorAll('.faq-item');
+  faqItems.forEach(function(item) {
+    var question = item.querySelector('.faq-question');
+    question.addEventListener('click', function() {
+      var isOpen = item.classList.contains('open');
+      faqItems.forEach(function(i) { i.classList.remove('open'); });
+      if (!isOpen) { item.classList.add('open'); }
+    });
+  });
+});
+</script>
+
+<div class="cta-box" style="background:#f0f7ff;border:2px solid #0073aa;padding:24px;border-radius:8px;text-align:center;margin-top:32px;">
+<h3 style="margin-top:0;">Start Your Laboratory Distribution Business with Medilab Exports</h3>
+<p>Medilab Exports Consortium supplies ISO-certified borosilicate 3.3 laboratory glassware to distribution partners in 40+ countries - with full documentation packages, OEM and private label options, and distributor onboarding support designed to help new partners build a credible <strong>laboratory supply distributor catalogue</strong> from day one. Contact our export team to discuss your distribution market, product scope, and partnership terms.</p>
+<a href="https://medilabexports.com/contact" style="background:#0073aa;color:#fff;padding:14px 32px;border-radius:5px;text-decoration:none;font-weight:bold;display:inline-block;margin-top:10px;" target="_blank" rel="noopener noreferrer">Request Distributor Pricing</a>
+</div>
