@@ -175,7 +175,7 @@
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://medilabexports.com/wp-content/uploads/2026/06/ib-laboratory-equipment-school-science-lab.jpg",
+    "url": "https://medilabexports.com/wp-content/uploads/2026/06/ib-laboratory-equipment-school-science-lab-scaled.png",
     "width": 1200,
     "height": 630
   },

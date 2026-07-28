@@ -116,7 +116,7 @@ Follow this exact structure. Reference: blog-10-wordpress.md, blog-13-wordpress.
 **7. "How to" or summary section with internal links**
 - 3-4 paragraphs
 - Must include exactly 3 internal links to existing blogs
-- Format: `<a href="blog-07-common-laboratory-glassware-uses.html">anchor text</a>`
+- Format: `<a href="https://medilabexports.com/common-laboratory-glassware-uses/">anchor text</a>`
 
 **8. FAQ section — CSS + JS accordion design**
 
@@ -196,11 +196,13 @@ document.addEventListener('DOMContentLoaded', function() {
 ## PART 4: LINKS
 
 ### Internal Links (exactly 3 per blog)
+**Always use the absolute live URL (matches the target blog's own canonical tag), never a relative `blog-XX-slug.html` filename.** Relative filenames resolve against the live page's own directory on medilabexports.com and produce a broken nested URL (e.g. `medilabexports.com/this-post/blog-07-common-laboratory-glassware-uses.html` instead of `medilabexports.com/common-laboratory-glassware-uses/`).
+
 Always link to these blogs where relevant:
-- `blog-07-common-laboratory-glassware-uses.html` — glassware types and uses
-- `blog-08-importance-precision-scientific-glassware.html` — precision in scientific glassware
-- `blog-12-laboratory-glassware-quality-standards.html` — ISO/ASTM/DIN quality standards
-- Other blog links are acceptable when highly relevant
+- `https://medilabexports.com/common-laboratory-glassware-uses/` — glassware types and uses
+- `https://medilabexports.com/importance-precision-scientific-glassware/` — precision in scientific glassware
+- `https://medilabexports.com/laboratory-glassware-quality-standards/` — ISO/ASTM/DIN quality standards
+- Other blog links are acceptable when highly relevant — always use that blog's own canonical URL (check its `<link rel="canonical">` tag), not its local filename
 
 ### External DoFollow Links (minimum 2 per blog)
 Use authoritative sources relevant to the topic:

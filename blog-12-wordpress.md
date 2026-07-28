@@ -65,7 +65,7 @@
 <p>ISO Technical Committee 48 (Laboratory Glassware and Related Apparatus) has published individual product standards for the most common volumetric glassware types. These four ISO <strong>laboratory glassware quality standards</strong> are the most widely referenced in procurement specifications worldwide:</p>
 
 <figure class="wp-block-image">
-<img src="https://medilabexports.com/wp-content/uploads/2026/03/iso-laboratory-glassware-standards-comparison.jpg" alt="Laboratory glassware quality standards comparison showing ISO 1042, ISO 385, ISO 648, and ISO 4788 specifications side by side" title="Laboratory Glassware Quality Standards: 7 Essential ISO, ASTM & DIN Certifications Every Lab Needs" width="800" height="450" loading="lazy" />
+<img src="https://medilabexports.com/wp-content/uploads/2026/03/iso-laboratory-glassware-standards-comparison-scaled.png" alt="Laboratory glassware quality standards comparison showing ISO 1042, ISO 385, ISO 648, and ISO 4788 specifications side by side" title="Laboratory Glassware Quality Standards: 7 Essential ISO, ASTM & DIN Certifications Every Lab Needs" width="800" height="450" loading="lazy" />
 <figcaption>The four core ISO product standards for laboratory glassware quality standards - each defining tolerances, graduation requirements, and material specifications for a different volumetric instrument type</figcaption>
 </figure>
 
@@ -301,7 +301,7 @@
   <li><strong>Check batch and lot numbers:</strong> Confirm that the batch number on the calibration certificate matches the batch number marked on the glassware. This basic step ensures the certificate actually refers to the product you received.</li>
 </ul>
 
-<p>For more details on evaluating your glassware supplier's manufacturing capability, see our guide on <a href="blog-11-how-laboratory-glassware-is-manufactured.html">Laboratory Glassware Manufacturing: Complete 8-Step Process</a>. For an overview of common glassware types and their specification requirements, see <a href="blog-07-common-laboratory-glassware-uses.html">12 Common Laboratory Glassware and Their Uses</a>. For a detailed look at the precision tolerances that make Class A glassware indispensable, see <a href="blog-08-importance-precision-scientific-glassware.html">Precision Scientific Glassware: 7 Critical Reasons Why It Matters</a>.</p>
+<p>For more details on evaluating your glassware supplier's manufacturing capability, see our guide on <a href="https://medilabexports.com/laboratory-glassware-manufacturing-process/">Laboratory Glassware Manufacturing: Complete 8-Step Process</a>. For an overview of common glassware types and their specification requirements, see <a href="https://medilabexports.com/common-laboratory-glassware-uses/">12 Common Laboratory Glassware and Their Uses</a>. For a detailed look at the precision tolerances that make Class A glassware indispensable, see <a href="https://medilabexports.com/importance-precision-scientific-glassware/">Precision Scientific Glassware: 7 Critical Reasons Why It Matters</a>.</p>
 
 <p>Medilab Exports Consortium supplies ISO-certified borosilicate labware with full <strong>laboratory glassware quality standards</strong> documentation to distributors and institutions in over 40 countries. All Class A volumetric products ship with batch calibration certificates referencing ISO 4787 gravimetric verification. Contact our team for product specifications and distributor pricing.</p>
 

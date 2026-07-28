@@ -133,7 +133,7 @@ Laboratory glassware sample evaluation: 9 essential quality checks to verify bef
 
 **Title Attribute:** `Laboratory Glassware Sample Evaluation: 9 Essential Quality Checks Before Placing a Bulk Order`
 
-**File Name:** `laboratory-glassware-sample-evaluation-inspection.jpg`
+**File Name:** `laboratory-glassware-sample-evaluation-inspection-scaled.png`
 
 **Suggested Size:** 1200 x 630 px (featured/OG)
 **In-content Display:** 800 x 450 px
@@ -183,7 +183,7 @@ Laboratory glassware sample evaluation: 9 essential quality checks to verify bef
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://medilabexports.com/wp-content/uploads/2026/05/laboratory-glassware-sample-evaluation-inspection.jpg",
+    "url": "https://medilabexports.com/wp-content/uploads/2026/05/laboratory-glassware-sample-evaluation-inspection-scaled.png",
     "width": 1200,
     "height": 630
   },

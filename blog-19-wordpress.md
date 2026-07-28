@@ -1,5 +1,8 @@
 # Blog 19 – WordPress Body Content (Paste into WP Editor > Text/HTML View)
 
+**Canonical URL:** `https://medilabexports.com/blog/laboratory-supply-catalogue-vs-custom-quotation`
+**Where to set it:** Not in the body below, `rel="canonical"` only works in the page `<head>`. If publishing this as the original post on medilabexports.com, Yoast/RankMath sets this automatically from the permalink, no action needed. If pasting this same content anywhere else (Medium, Blogger, a syndication partner), paste the URL above into that platform's canonical field (Medium: "···" menu → Story settings → Advanced settings → Canonical link) so search engines credit this domain, not the copy.
+
 **Title:** Laboratory Supply Catalogue vs Custom Quotation: 7 Factors That Decide Which to Use
 **Focus Keyword:** laboratory supply catalogue
 **Permalink:** laboratory-supply-catalogue-vs-custom-quotation
@@ -15,7 +18,7 @@
 <p>Medilab Exports Consortium supplies ISO-certified borosilicate 3.3 laboratory glassware to distributors, pharmaceutical manufacturers, research institutions, and hospital procurement teams across 40+ countries. We issue both a <strong>laboratory supply catalogue</strong> for standard product ranges and custom quotations for specification-specific, volume-tiered, and OEM-labeled orders. The 7 factors in this guide reflect the criteria we apply when advising procurement partners on which approach their order requires.</p>
 
 <figure class="wp-block-image">
-<img src="https://medilabexports.com/wp-content/uploads/2026/05/laboratory-supply-catalogue-procurement-review.jpg" alt="laboratory supply catalogue: procurement manager reviewing a printed lab glassware and equipment catalogue alongside supplier specification sheets and pricing documents at a professional procurement desk" title="Laboratory Supply Catalogue vs Custom Quotation: 7 Factors That Decide Which to Use" width="800" height="450" loading="lazy" />
+<img src="https://medilabexports.com/wp-content/uploads/2026/05/laboratory-supply-catalogue-procurement-review-scaled.png" alt="laboratory supply catalogue: procurement manager reviewing a printed lab glassware and equipment catalogue alongside supplier specification sheets and pricing documents at a professional procurement desk" title="Laboratory Supply Catalogue vs Custom Quotation: 7 Factors That Decide Which to Use" width="800" height="450" loading="lazy" />
 <figcaption>Laboratory supply catalogue review in a procurement context: understanding when catalogue pricing and specifications meet the requirement, and when a custom quotation is the more appropriate procurement tool</figcaption>
 </figure>
 
@@ -84,7 +87,7 @@
 
 <p>A custom quotation is the correct tool for any procurement where documentation requirements exceed the standard certificate of conformance. The quotation document should explicitly list which certificates will accompany each shipment, the format in which they will be provided, and the lead time between order placement and documentation availability. This establishes the documentation commitment before the purchase order is issued - not after the shipment arrives.</p>
 
-<p>For a detailed review of the quality standards that drive these documentation requirements, see our guide on <a href="blog-12-laboratory-glassware-quality-standards.html">laboratory glassware quality standards</a>. Understanding which ISO standards apply to a given product category clarifies exactly which certificates a compliant quotation must include.</p>
+<p>For a detailed review of the quality standards that drive these documentation requirements, see our guide on <a href="https://medilabexports.com/laboratory-glassware-quality-standards/">laboratory glassware quality standards</a>. Understanding which ISO standards apply to a given product category clarifies exactly which certificates a compliant quotation must include.</p>
 
 <h2 id="factor-4">Factor 4: Procurement Timeline and Delivery Urgency</h2>
 
@@ -103,7 +106,7 @@
 <p>Procurement managers who are uncertain about whether a purchase requires a quotation for internal approval purposes should confirm this against their organization's procurement policy before placing an order. Placing a large order at catalogue price without a formal quotation may create approval compliance issues even when the purchase itself is technically correct.</p>
 
 <figure class="wp-block-image">
-<img src="https://medilabexports.com/wp-content/uploads/2026/05/laboratory-supply-catalogue-quotation-comparison.jpg" alt="laboratory supply catalogue vs custom quotation: side-by-side view of a printed catalogue page with standard pricing and a custom quotation document with volume pricing tiers and regulatory documentation checklist on a procurement desk" title="Laboratory Supply Catalogue vs Custom Quotation: Decision Framework for Lab Procurement" width="800" height="450" loading="lazy" />
+<img src="https://medilabexports.com/wp-content/uploads/2026/05/laboratory-supply-catalogue-quotation-comparison-scaled.png" alt="laboratory supply catalogue vs custom quotation: side-by-side view of a printed catalogue page with standard pricing and a custom quotation document with volume pricing tiers and regulatory documentation checklist on a procurement desk" title="Laboratory Supply Catalogue vs Custom Quotation: Decision Framework for Lab Procurement" width="800" height="450" loading="lazy" />
 <figcaption>Laboratory supply catalogue and custom quotation side by side: the catalogue applies to standard stocked products at list price; the quotation applies when volume, specification, documentation, or customization requirements fall outside catalogue conditions</figcaption>
 </figure>
 
@@ -111,7 +114,7 @@
 
 <p>A laboratory supply catalogue is appropriate for orders placed with established and qualified suppliers whose terms, documentation practices, and product consistency are already known and on record. First-time orders from a new supplier should be processed via custom quotation regardless of whether the product specification matches catalogue listings. A formal quotation establishes the terms of the relationship, documents the supplier's commitments on documentation and delivery, and creates a reference record for supplier qualification.</p>
 
-<p>New supplier qualification involves both formal quotation and sample evaluation before any bulk purchase is confirmed. For guidance on identifying and assessing manufacturing partners, see our guide on <a href="blog-09-oem-laboratory-glassware-manufacturing-distributors.html">OEM laboratory glassware manufacturing for distributors</a> - which covers the qualification criteria procurement managers use to evaluate supplier credentials, ISO certifications, and export documentation before placing first orders.</p>
+<p>New supplier qualification involves both formal quotation and sample evaluation before any bulk purchase is confirmed. For guidance on identifying and assessing manufacturing partners, see our guide on <a href="https://medilabexports.com/oem-laboratory-glassware-manufacturing-distributors/">OEM laboratory glassware manufacturing for distributors</a> - which covers the qualification criteria procurement managers use to evaluate supplier credentials, ISO certifications, and export documentation before placing first orders.</p>
 
 <p>For established supplier relationships with a documented order history and consistent quality record, catalogue ordering is appropriate for routine replenishment. Reserve quotation requests for volume changes, specification adjustments, documentation upgrades, or contract renewals - rather than for every individual reorder from a supplier already qualified in the procurement system.</p>
 
@@ -196,7 +199,7 @@
 
 <p>Distributors managing a mixed product portfolio can streamline procurement by separating orders into two tracks at the point of order preparation. Items that match the <strong>laboratory supply catalogue</strong> exactly and require no additional documentation go through the catalogue track with immediate order placement. Items that deviate from catalogue conditions on any of the 7 factors above go to the quotation track, with a defined lead time built into the procurement schedule.</p>
 
-<p>For reference on the precision requirements that drive quotation-level documentation in volumetric instruments, see our guide on <a href="blog-08-importance-precision-scientific-glassware.html">precision scientific glassware</a> - covering how ISO 4787 tolerance specifications translate into documentation requirements for Class A instruments. The <a href="https://www.iso.org/iso-9001-quality-management.html" target="_blank" rel="noopener noreferrer">ISO 9001 quality management standard</a> requires documented supplier selection and purchasing criteria for organizations operating under quality management systems - a requirement that a formal quotation process directly satisfies.</p>
+<p>For reference on the precision requirements that drive quotation-level documentation in volumetric instruments, see our guide on <a href="https://medilabexports.com/importance-precision-scientific-glassware/">precision scientific glassware</a> - covering how ISO 4787 tolerance specifications translate into documentation requirements for Class A instruments. The <a href="https://www.iso.org/iso-9001-quality-management.html" target="_blank" rel="noopener noreferrer">ISO 9001 quality management standard</a> requires documented supplier selection and purchasing criteria for organizations operating under quality management systems - a requirement that a formal quotation process directly satisfies.</p>
 
 <p>For pharmaceutical procurement, the <a href="https://www.who.int/publications/i/item/9789241516495" target="_blank" rel="noopener noreferrer">WHO Good Manufacturing Practices</a> guidelines require formal documentation of incoming material qualification and supplier approval. A custom quotation that specifies product parameters, certification commitments, and batch documentation requirements satisfies this requirement. Medilab Exports Consortium provides both a current laboratory supply catalogue and custom quotations for all product categories. Contact our export team to request either document for your specific procurement requirement.</p>
 

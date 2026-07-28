@@ -174,7 +174,7 @@
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://medilabexports.com/wp-content/uploads/2026/06/hospital-laboratory-equipment-procurement-pathology-lab.jpg",
+    "url": "https://medilabexports.com/wp-content/uploads/2026/06/hospital-laboratory-equipment-procurement-pathology-lab-scaled.png",
     "width": 1200,
     "height": 630
   },

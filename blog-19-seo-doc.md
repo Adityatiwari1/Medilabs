@@ -134,7 +134,7 @@ Laboratory supply catalogue vs custom quotation: 7 factors that determine which 
 
 **Title Attribute:** `Laboratory Supply Catalogue vs Custom Quotation: 7 Factors That Decide Which to Use`
 
-**File Name:** `laboratory-supply-catalogue-procurement-review.jpg`
+**File Name:** `laboratory-supply-catalogue-procurement-review-scaled.png`
 
 **Suggested Size:** 1200 x 630 px (featured/OG)
 **In-content Display:** 800 x 450 px
@@ -184,7 +184,7 @@ Laboratory supply catalogue vs custom quotation: 7 factors that determine which 
   },
   "image": {
     "@type": "ImageObject",
-    "url": "https://medilabexports.com/wp-content/uploads/2026/05/laboratory-supply-catalogue-procurement-review.jpg",
+    "url": "https://medilabexports.com/wp-content/uploads/2026/05/laboratory-supply-catalogue-procurement-review-scaled.png",
     "width": 1200,
     "height": 630
   },
