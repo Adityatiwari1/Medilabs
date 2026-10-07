@@ -1,0 +1,2549 @@
+author: ""
+brandUpdateTime: '2023-04-25T06:51:02.756Z'
+campaignType: classic
+fields: []
+fieldsHistory: []
+firstLoadSocialIcons: false
+fonts:
+  - 'https://fonts.googleapis.com/css2?family=Montserrat'
+id: 3289a49c-26e2-4859-9048-f664aca57a4a
+name: ""
+original-campaign-ID: 56
+subject: 'OCT 2026 - 2 | Build Your Own Labware Shipment: Glassware, Plasticware, Porcelain, Instruments & Models'
+ui:
+  showDeleteOption: false
+  showMoreOption: false
+user-hash: 7b27ae2be2510f87a932f37965b4cf2f
+version: 3.0.1
+body:
+  id: ef5e4830-dc67-46e8-b6be-86fced00c80f
+  type: body
+  layout:
+    320px:
+      width: 320px
+    default:
+      background-color: '#f0f0f5'
+      direction: ltr
+      view-in-browser: true
+      wrapper-background-color: '#ffffff'
+      wrapper-width: 590px
+  content:
+    -
+      content-type: wrapper
+      id: a2bf3a74-eaee-4603-bd60-8142758e653a
+      title: Wrapper
+      type: rows
+      layout:
+        320px:
+          width: 320px
+        default:
+          align: center
+          valign: top
+      content:
+        -
+          align: top
+          dist: '12'
+          gutter: 0px
+          id: a9734096-a6cc-4e4f-a697-0de044c05fd9
+          moduleName: preheader
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: Preheader
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              width: 100%
+            default:
+              align: center
+              display: block
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 80ec0a3c-f63a-4e56-b2c6-61f950cca29d
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: 'column 1'
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: 7146d465-f9b6-4665-9069-ec6cb721c81e
+                  title: Preheader Text
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      width: 100%
+                  content: '<p style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;color:#ffffff;">Mix eight labware categories in one shipment, starting from USD 1,500 FOB.</p>'
+        -
+          align: top
+          block_id: 20
+          dist: '12'
+          gutter: 0px
+          id: dbaffbde-59ab-4080-a687-368413b547ac
+          moduleName: viewInBrowser
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: ViewInBrowser
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              width: 100%
+            default:
+              align: center
+              display: block
+              valign: top
+              width: 100%
+          content:
+            -
+              id: aa994dfd-bbab-4d1e-abab-cfadc23c2792
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: 'column 1'
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: 12fac04e-aa76-489e-93fb-ec1e195b4020
+                  title: 'View in browser'
+                  type: text
+                  layout:
+                    320px:
+                      padding-left: 10px
+                      padding-right: 10px
+                      width: 100%
+                    default:
+                      align: center
+                      background-color: '#ffffff'
+                      padding-bottom: 10px
+                      padding-left: 30px
+                      padding-right: 30px
+                      padding-top: 10px
+                      text-align: center
+                      width: 100%
+                  content: '<p><a href="{{ mirror }}"><span style="font-family:&#39;Sanchez&#39;,&#39;Arial&#39;,Helvetica,sans-serif;font-size:13px;color:#cccccc;text-decoration:none">View in browser</span></a></p>'
+        -
+          align: top
+          block_id: 5
+          dist: '12'
+          gutter: 10px
+          id: 432e30fa-8a03-42c2-ad35-70e55b2c499a
+          moduleName: header
+          thumbnail: /assets/img/editor/element-header.svg
+          title: Header
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              background-color: '#ffffff'
+              padding-bottom: 5px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 5px
+              removePadding: true
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 02d60cb3-076d-4a32-af6a-cff97b53e8a2
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: grid-column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: 6ce3f2cf-893c-4fc0-9895-a770febce123
+                  label: Replace
+                  title: Image
+                  type: image
+                  layout:
+                    320px:
+                      max-width: 320px
+                      width: 100%
+                    default:
+                      align: center
+                      background-position: center
+                      background-repeat: no-repeat
+                      background-size: auto
+                      canvas-height: 61px
+                      dynamic: false
+                      embed: false
+                      image-maxWidth: 540px
+                      img-border-radius: 0px
+                      opacity: 1
+                      padding-bottom: 0px
+                      padding-top: 0px
+                      resizeEnable: true
+                      type: absoluteLink
+                      valign: top
+                      width: 186px
+                  content:
+                    alt: MEDILAB
+                    href: 'https://medilabexports.com/'
+                    src: 'https://img.mailinblue.com/3583012/images/content_library/original/656387210847d8557409cdb7.png'
+        -
+          align: top
+          block_id: 6
+          dist: '12'
+          gutter: 10px
+          id: c683bebe-a332-41c2-80c7-c4e6fe87bd15
+          thumbnail: /assets/img/editor/element-header.svg
+          title: Heading
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              background-color: '#a82d28'
+              padding-bottom: 0px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 0px
+              removePadding: false
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 5e41a651-ffc9-4f21-9cbc-30f9eb663600
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: grid-column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: 2e691846-1e50-4fde-8504-a6aa0b70753d
+                  title: Heading
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      direction: ltr
+                      line-height: '1'
+                      padding-bottom: 5px
+                      padding-top: 5px
+                      text-align: center
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<h1 class="default-heading1"><span style="color:#ffffff;font-family:Verdana, geneva, sans-serif;font-size:26px;">Build Your Own Labware Shipment</span></h1>'
+        -
+          align: top
+          dist: '12'
+          gutter: 30px
+          id: cdfd9897-1fc8-454e-80f4-8e052ddd0387
+          moduleName: grid-row12
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: section
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 0px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 15px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 2d2ef737-10a2-4e29-a8f9-11f19aecb1ce
+              isEmpty: false
+              title: 'column 1'
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+              -
+                id: 8a07a30d-1145-4329-929a-cd802b9cb14e
+                thumbnail: /assets/img/editor/element_text.svg
+                title: Text
+                type: text
+                layout:
+                  320px:
+                    width: 100%
+                  default:
+                    align: left
+                    line-height: '1.4'
+                    padding-bottom: 15px
+                    padding-top: 5px
+                    text-align: center
+                    text-valign: top
+                    valign: top
+                    width: 100%
+                content: '<p style="text-align:center;"><span style="font-family:Arial, helvetica, sans-serif;font-size:15px;color:#a82d28;"><i>Glassware, Plasticware, Porcelain, Instruments and Models</i></span></p>'
+        -
+          align: top
+          dist: '12'
+          gutter: 30px
+          id: 79646cfc-2c45-446e-931c-60373783d4eb
+          moduleName: grid-row12
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: section
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 0px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 0px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 2ac7aa50-3a39-4cd3-adfd-4960da64e397
+              isEmpty: false
+              title: 'column 1'
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+              -
+                id: 21984ef9-08a1-401f-8e2c-8b1a89fe0980
+                thumbnail: /assets/img/editor/element_text.svg
+                title: Text
+                type: text
+                layout:
+                  320px:
+                    width: 100%
+                  default:
+                    align: left
+                    line-height: '1.6'
+                    padding-bottom: 15px
+                    padding-top: 15px
+                    text-align: left
+                    text-valign: top
+                    valign: top
+                    width: 100%
+                content: '<p style="text-align:center;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;">Your customers rarely buy one kind of product, and neither should your supply order.</span></p><p style="text-align:center;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;">With MEDILAB you can combine eight categories in a single shipment.</span></p>'
+        # IMAGE 1 - HERO
+        # Brief: a top-down flat-lay of mixed labware on a white surface: glass beakers, plastic bottles, a porcelain crucible, a small microscope and a biology model, with a red ribbon line running through.
+        # Purpose: shows the breadth of the range in one frame.
+        -
+          align: top
+          dist: '12'
+          gutter: 30px
+          id: fa66bae3-5d10-4c19-b781-cf29aed4dfc5
+          moduleName: grid-row12
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: Section
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 20px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 10px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 24421109-c2d3-4ce4-9595-36bcb55da7ca
+              isEmpty: false
+              title: 'column 1'
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+              -
+                id: 72fde2e5-ebf7-46cb-81cf-c4cd4e3784d6
+                title: Image
+                type: image
+                layout:
+                  320px:
+                    max-width: 320px
+                    width: 100%
+                  default:
+                    align: center
+                    canvas-height: 300px
+                    padding-bottom: 0px
+                    padding-top: 0px
+                    valign: top
+                    width: 100%
+                content:
+                  src: 'https://creative-assets.mailinblue.com/editor/image_placeholder.png'
+        -
+          align: top
+          dist: '12'
+          gutter: 30px
+          id: 71f1214d-73f5-4936-b78e-0aa9c55619f2
+          moduleName: grid-row12
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: Accent
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              background-color: '#a82d28'
+              padding-bottom: 2px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 2px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: bd672482-f89b-4114-9b10-da1aab582aa1
+              isEmpty: false
+              title: 'column 1'
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+              -
+                id: ca9427dc-a953-4752-8d70-51a3f9df8965
+                thumbnail: /assets/img/editor/element_text.svg
+                title: Text
+                type: text
+                layout:
+                  320px:
+                    width: 100%
+                  default:
+                    align: left
+                    line-height: '1'
+                    padding-bottom: 0px
+                    padding-top: 0px
+                    text-align: center
+                    text-valign: top
+                    valign: top
+                    width: 100%
+                content: '<p style="margin:0;font-size:1px;line-height:1px;">&nbsp;</p>'
+        -
+          align: top
+          dist: '4-4-4'
+          gutter: 10px
+          id: 4a0d0233-c5b4-49d4-a685-29a58fafc04c
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: section
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              background-color: '#fbeeed'
+              padding-bottom: 22px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 22px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 0fd0a5e7-0e2c-4436-8afe-899627f799f7
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 8px
+                  padding-right: 8px
+                  valign: top
+              content:
+                    -
+                      id: 6c1a2551-8040-4edd-b9b2-09c1c14559f2
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0;"><span style="font-family:Verdana, geneva, sans-serif;font-size:28px;color:#a82d28;"><strong>8</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:12px;color:#3b3f44;">Product categories</span></p>'
+            -
+              id: d50b215f-359a-4272-9711-7b3102e2ea25
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 8px
+                  padding-right: 8px
+                  valign: top
+              content:
+                    -
+                      id: 6dacb648-8436-491a-aaeb-98a3edc2e33e
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0;"><span style="font-family:Verdana, geneva, sans-serif;font-size:28px;color:#a82d28;"><strong>USD 1,500</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:12px;color:#3b3f44;">Minimum order, FOB</span></p>'
+            -
+              id: f7978b10-f726-4e37-b2eb-8693d073b5e6
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 8px
+                  padding-right: 8px
+                  valign: top
+              content:
+                    -
+                      id: 35f7107f-8cd2-4d86-98ff-23493f9d7aa6
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0;"><span style="font-family:Verdana, geneva, sans-serif;font-size:28px;color:#a82d28;"><strong>1</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:12px;color:#3b3f44;">Shipment, one set of documents</span></p>'
+        -
+          align: top
+          block_id: 6
+          dist: '12'
+          gutter: 10px
+          id: 1578c035-280f-4a55-b6a0-0d4f07ddb991
+          thumbnail: /assets/img/editor/element-header.svg
+          title: Heading
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              background-color: '#a82d28'
+              padding-bottom: 0px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 0px
+              removePadding: false
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 7f731efb-bdfe-4787-9a63-f86692428bd8
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: grid-column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: 13348795-27d0-443d-a948-45aa6c8afbef
+                  title: Heading
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      direction: ltr
+                      line-height: '1.3'
+                      padding-bottom: 5px
+                      padding-top: 5px
+                      text-align: center
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<h2 class="default-heading2"><span style="color:#ffffff;font-family:Verdana, geneva, sans-serif;font-size:20px;"><strong>Eight Categories, One Shipment</strong></span></h2>'
+        # TILE ROW - Glassware, Plasticware, General Labware, Microscopes
+        -
+          align: top
+          dist: '3-3-3-3'
+          gutter: 10px
+          id: b224b3d3-4900-46b4-b6cc-331f51415b3b
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: section
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              background-color: '#f9fafc'
+              padding-bottom: 18px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 18px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 465dede1-3e0f-465c-a3a4-b44fe1e4a48b
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 6px
+                  padding-right: 6px
+                  valign: top
+              content:
+                    -
+                      id: 565f5f5d-c85f-482f-aa5c-96b73ff304d6
+                      title: Image
+                      type: image
+                      layout:
+                        320px:
+                          max-width: 320px
+                          width: 100%
+                        default:
+                          align: center
+                          border-radius: 8px
+                          canvas-height: 125px
+                          padding-bottom: 8px
+                          padding-top: 0px
+                          valign: top
+                          width: 100%
+                      content:
+                        src: 'https://creative-assets.mailinblue.com/editor/image_placeholder.png'
+                    -
+                      id: 25b36046-fc37-4f49-b0f6-df61271664a4
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0 0 2px 0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#a82d28;"><strong>Glassware</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:11px;color:#3b3f44;">Beakers, flasks, funnels, tubes, condensers</span></p>'
+            -
+              id: 2c662f79-1c86-4a27-8a97-8ece44428232
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 6px
+                  padding-right: 6px
+                  valign: top
+              content:
+                    -
+                      id: 1229ce26-1d6b-46c3-a4a6-b0a45a01ac81
+                      title: Image
+                      type: image
+                      layout:
+                        320px:
+                          max-width: 320px
+                          width: 100%
+                        default:
+                          align: center
+                          border-radius: 8px
+                          canvas-height: 125px
+                          padding-bottom: 8px
+                          padding-top: 0px
+                          valign: top
+                          width: 100%
+                      content:
+                        src: 'https://creative-assets.mailinblue.com/editor/image_placeholder.png'
+                    -
+                      id: 85f09e7b-455d-4397-84ff-942ba6d613a7
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0 0 2px 0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#a82d28;"><strong>Plasticware</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:11px;color:#3b3f44;">Bottles, Petri dishes, burettes, racks</span></p>'
+            -
+              id: 9be8a150-8670-4d96-8003-999693974d7d
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 6px
+                  padding-right: 6px
+                  valign: top
+              content:
+                    -
+                      id: f87d2339-f9a4-4292-b08b-675f4f6d50c1
+                      title: Image
+                      type: image
+                      layout:
+                        320px:
+                          max-width: 320px
+                          width: 100%
+                        default:
+                          align: center
+                          border-radius: 8px
+                          canvas-height: 125px
+                          padding-bottom: 8px
+                          padding-top: 0px
+                          valign: top
+                          width: 100%
+                      content:
+                        src: 'https://creative-assets.mailinblue.com/editor/image_placeholder.png'
+                    -
+                      id: 6d30c1be-cc9a-401d-9b1f-b781d0c79106
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0 0 2px 0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#a82d28;"><strong>General Labware</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:11px;color:#3b3f44;">Porcelain, metal, rubber, wooden items</span></p>'
+            -
+              id: 07884ee0-f585-43ee-86da-6f63563cb62f
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 6px
+                  padding-right: 6px
+                  valign: top
+              content:
+                    -
+                      id: fd0b3c45-bbe3-451a-b322-d2b2703c48da
+                      title: Image
+                      type: image
+                      layout:
+                        320px:
+                          max-width: 320px
+                          width: 100%
+                        default:
+                          align: center
+                          border-radius: 8px
+                          canvas-height: 125px
+                          padding-bottom: 8px
+                          padding-top: 0px
+                          valign: top
+                          width: 100%
+                      content:
+                        src: 'https://creative-assets.mailinblue.com/editor/image_placeholder.png'
+                    -
+                      id: 8e27d6e5-6bda-40ec-9c7a-6344b6f0445c
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0 0 2px 0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#a82d28;"><strong>Microscopes</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:11px;color:#3b3f44;">Microscopes and optical equipment</span></p>'
+        # TILE ROW - Physics Instruments, Lab Equipment, Biology Models, Analytical Instruments
+        -
+          align: top
+          dist: '3-3-3-3'
+          gutter: 10px
+          id: 7c2517ad-ebd5-4c85-9fb7-e52ca92df446
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: section
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              background-color: '#ffffff'
+              padding-bottom: 18px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 18px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: a08bbfa3-4869-44b6-8be4-7ba1335a58f4
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 6px
+                  padding-right: 6px
+                  valign: top
+              content:
+                    -
+                      id: a35a85ae-9b4c-4984-8f65-177b00a12fb4
+                      title: Image
+                      type: image
+                      layout:
+                        320px:
+                          max-width: 320px
+                          width: 100%
+                        default:
+                          align: center
+                          border-radius: 8px
+                          canvas-height: 125px
+                          padding-bottom: 8px
+                          padding-top: 0px
+                          valign: top
+                          width: 100%
+                      content:
+                        src: 'https://creative-assets.mailinblue.com/editor/image_placeholder.png'
+                    -
+                      id: 03190a57-5c0f-4581-b88c-e952a2408bd8
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0 0 2px 0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#a82d28;"><strong>Physics Instruments</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:11px;color:#3b3f44;">Physics laboratory instruments</span></p>'
+            -
+              id: bc07c444-f166-41e9-abae-07aa48f0b316
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 6px
+                  padding-right: 6px
+                  valign: top
+              content:
+                    -
+                      id: 462ce457-c52a-43e3-ba40-86ffee6e9784
+                      title: Image
+                      type: image
+                      layout:
+                        320px:
+                          max-width: 320px
+                          width: 100%
+                        default:
+                          align: center
+                          border-radius: 8px
+                          canvas-height: 125px
+                          padding-bottom: 8px
+                          padding-top: 0px
+                          valign: top
+                          width: 100%
+                      content:
+                        src: 'https://creative-assets.mailinblue.com/editor/image_placeholder.png'
+                    -
+                      id: ae634d32-7d9b-42bc-a112-6c57f80368af
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0 0 2px 0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#a82d28;"><strong>Lab Equipment</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:11px;color:#3b3f44;">Centrifuges and clean air systems</span></p>'
+            -
+              id: b67c56d0-a1c8-4ffe-b59f-ae4722fd5335
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 6px
+                  padding-right: 6px
+                  valign: top
+              content:
+                    -
+                      id: 44e612de-e866-4e3e-a96b-ae65fd1075a9
+                      title: Image
+                      type: image
+                      layout:
+                        320px:
+                          max-width: 320px
+                          width: 100%
+                        default:
+                          align: center
+                          border-radius: 8px
+                          canvas-height: 125px
+                          padding-bottom: 8px
+                          padding-top: 0px
+                          valign: top
+                          width: 100%
+                      content:
+                        src: 'https://creative-assets.mailinblue.com/editor/image_placeholder.png'
+                    -
+                      id: fe4cf076-c224-4aaa-b0e4-03d67e0336bc
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0 0 2px 0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#a82d28;"><strong>Biology Models</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:11px;color:#3b3f44;">Models and slides</span></p>'
+            -
+              id: 03b20d80-af9e-4008-8a91-e1af2c4375de
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 6px
+                  padding-right: 6px
+                  valign: top
+              content:
+                    -
+                      id: 893b7d1e-e053-4e5e-875b-7e0f21c79278
+                      title: Image
+                      type: image
+                      layout:
+                        320px:
+                          max-width: 320px
+                          width: 100%
+                        default:
+                          align: center
+                          border-radius: 8px
+                          canvas-height: 125px
+                          padding-bottom: 8px
+                          padding-top: 0px
+                          valign: top
+                          width: 100%
+                      content:
+                        src: 'https://creative-assets.mailinblue.com/editor/image_placeholder.png'
+                    -
+                      id: 5fb66ce2-18af-4842-8cfa-621353245430
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0 0 2px 0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#a82d28;"><strong>Analytical Instruments</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:11px;color:#3b3f44;">Analytical instruments</span></p>'
+        -
+          align: top
+          block_id: 6
+          dist: '12'
+          gutter: 10px
+          id: c13d8cff-c672-434f-8900-94967c01c612
+          thumbnail: /assets/img/editor/element-header.svg
+          title: Heading
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              background-color: '#a82d28'
+              padding-bottom: 0px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 0px
+              removePadding: false
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 242613c6-a5ed-4758-b23b-6f4a52f9d20a
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: grid-column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: 071d812a-01e3-4286-9d6c-bfac267124b7
+                  title: Heading
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      direction: ltr
+                      line-height: '1.3'
+                      padding-bottom: 5px
+                      padding-top: 5px
+                      text-align: center
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<h2 class="default-heading2"><span style="color:#ffffff;font-family:Verdana, geneva, sans-serif;font-size:20px;"><strong>Why Mix?</strong></span></h2>'
+        -
+          align: top
+          dist: '3-3-3-3'
+          gutter: 10px
+          id: b515f429-c430-49de-aea7-30aa3bbd7d75
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: section
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 22px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 22px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 57b33195-54a9-4552-81b6-098f3df86fb7
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 8px
+                  padding-right: 8px
+                  valign: top
+              content:
+                    -
+                      id: 7bcfe7ff-c05c-4196-893c-ceb0e9cdb461
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0 0 2px 0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#a82d28;"><strong>One Supplier</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:12px;color:#3b3f44;">One set of documents</span></p>'
+            -
+              id: 125dbaeb-0305-4d79-b612-1400bd7eecc0
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 8px
+                  padding-right: 8px
+                  valign: top
+              content:
+                    -
+                      id: ab1a30d7-53bf-4c49-8c58-81514067b40d
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0 0 2px 0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#a82d28;"><strong>Lower Freight</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:12px;color:#3b3f44;">Cost per item falls</span></p>'
+            -
+              id: 64f1e5e1-3603-4b3d-94f1-c24870b864d1
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 8px
+                  padding-right: 8px
+                  valign: top
+              content:
+                    -
+                      id: a75d9e47-dc1e-445c-91b6-b9a8b11070be
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0 0 2px 0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#a82d28;"><strong>Simpler Customs</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:12px;color:#3b3f44;">One shipment, one entry</span></p>'
+            -
+              id: b0ec2585-7620-44ec-a88b-eee0dbbbfdfa
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 8px
+                  padding-right: 8px
+                  valign: top
+              content:
+                    -
+                      id: 550ffe5b-7b5e-4029-a158-dea1f473e859
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0 0 2px 0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#a82d28;"><strong>Your Brand</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:12px;color:#3b3f44;">Private label and OEM options</span></p>'
+        -
+          align: top
+          block_id: 6
+          dist: '12'
+          gutter: 10px
+          id: 6057f1dd-ca81-401f-a638-6654c6fdf902
+          thumbnail: /assets/img/editor/element-header.svg
+          title: Heading
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              background-color: '#a82d28'
+              padding-bottom: 0px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 0px
+              removePadding: false
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 44fe7594-b1fd-4568-874d-c9f849f5ff34
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: grid-column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: 2204ec0a-adea-44ac-9cd1-8b392f7b0d1d
+                  title: Heading
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      direction: ltr
+                      line-height: '1.3'
+                      padding-bottom: 5px
+                      padding-top: 5px
+                      text-align: center
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<h2 class="default-heading2"><span style="color:#ffffff;font-family:Verdana, geneva, sans-serif;font-size:20px;"><strong>How It Works</strong></span></h2>'
+        -
+          align: top
+          dist: '3-3-3-3'
+          gutter: 10px
+          id: 9207a4c7-87fa-407d-b7d6-14ed7e7f541a
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: section
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 22px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 22px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 27b99a0b-699d-480d-93b8-0b0112ce67d5
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 8px
+                  padding-right: 8px
+                  valign: top
+              content:
+                    -
+                      id: 7ecf5bce-5b7a-4eb9-934b-58ba379d9a0c
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0;"><span style="font-family:Verdana, geneva, sans-serif;font-size:30px;color:#a82d28;"><strong>01</strong></span></p><p style="text-align:center;margin:2px 0 2px 0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#3b3f44;"><strong>Send Your List</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:11px;color:#3b3f44;">Products or your customers&#39; needs</span></p>'
+            -
+              id: b331f5d2-2d95-4b77-9fec-9468a008d425
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 8px
+                  padding-right: 8px
+                  valign: top
+              content:
+                    -
+                      id: 21cc524d-11fc-418e-9668-4d78d2f2a440
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0;"><span style="font-family:Verdana, geneva, sans-serif;font-size:30px;color:#a82d28;"><strong>02</strong></span></p><p style="text-align:center;margin:2px 0 2px 0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#3b3f44;"><strong>Get a Plan</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:11px;color:#3b3f44;">Quotation, documents, packing plan</span></p>'
+            -
+              id: 6dff85b5-6735-4ca8-a99d-bfc6db0fab46
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 8px
+                  padding-right: 8px
+                  valign: top
+              content:
+                    -
+                      id: 9fad135c-585a-4349-a189-aa91fe8f6ddc
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0;"><span style="font-family:Verdana, geneva, sans-serif;font-size:30px;color:#a82d28;"><strong>03</strong></span></p><p style="text-align:center;margin:2px 0 2px 0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#3b3f44;"><strong>Approve</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:11px;color:#3b3f44;">Samples or artwork if branding</span></p>'
+            -
+              id: 951d95d8-c833-444e-8fef-cc5ffa737de8
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 8px
+                  padding-right: 8px
+                  valign: top
+              content:
+                    -
+                      id: b776210f-c034-4d5e-afab-400342d1849f
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0;"><span style="font-family:Verdana, geneva, sans-serif;font-size:30px;color:#a82d28;"><strong>04</strong></span></p><p style="text-align:center;margin:2px 0 2px 0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#3b3f44;"><strong>We Ship</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:11px;color:#3b3f44;">Packed and documented to your Incoterm</span></p>'
+        -
+          align: top
+          block_id: 6
+          dist: '12'
+          gutter: 10px
+          id: 0b76eb46-bdda-449b-858d-5d02d59e3c67
+          thumbnail: /assets/img/editor/element-header.svg
+          title: Heading
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              background-color: '#a82d28'
+              padding-bottom: 0px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 0px
+              removePadding: false
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 29c19168-7f69-4a23-9791-348730224136
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: grid-column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: ae8258ab-5c68-4ba9-b0f1-0b41d09e0975
+                  title: Heading
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      direction: ltr
+                      line-height: '1.3'
+                      padding-bottom: 5px
+                      padding-top: 5px
+                      text-align: center
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<h2 class="default-heading2"><span style="color:#ffffff;font-family:Verdana, geneva, sans-serif;font-size:20px;"><strong>Example: A Teaching-Lab Starter Mix</strong></span></h2>'
+        # IMAGE 10 - FEATURE - ONE ORDER FOR A WHOLE LAB
+        # Brief: a flat-lay of a school laboratory starter set: beakers, flasks, plastic bottles, porcelain crucibles, a microscope and slides.
+        -
+          align: top
+          dist: '5-7'
+          gutter: 10px
+          id: c16530c5-a4f9-4c45-b8cc-f4d714443397
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: section
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              background-color: '#f9fafc'
+              padding-bottom: 22px
+              padding-left: 10px
+              padding-right: 10px
+              padding-top: 22px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: eb9877b9-c77e-4b4b-a8e4-0067382aebda
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 10px
+                  padding-right: 10px
+                  valign: top
+              content:
+                    -
+                      id: e58531e4-a9de-4b0f-b890-ec1218cec1ed
+                      title: Image
+                      type: image
+                      layout:
+                        320px:
+                          max-width: 320px
+                          width: 100%
+                        default:
+                          align: center
+                          border-radius: 8px
+                          canvas-height: 210px
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          valign: top
+                          width: 100%
+                      content:
+                        src: 'https://creative-assets.mailinblue.com/editor/image_placeholder.png'
+            -
+              id: 5bebeb39-f214-4d4d-a0cc-03cf393ff74b
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 10px
+                  padding-right: 10px
+                  valign: top
+              content:
+                    -
+                      id: 1e06b3a1-26d3-4cba-8cf0-a69c47ce90ed
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 6px
+                          text-align: left
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<h3 class="default-heading3" style="font-size:19px;color:#a82d28;margin:0 0 6px 0;">One Order for a Whole Lab</h3><p style="margin:0 0 10px 0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#3b3f44;">For illustration only. A distributor serving school and college laboratories might combine:</span></p><ul style="margin:0;padding-left:18px;"><li style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#3b3f44;margin-bottom:8px;">Glass beakers, flasks and cylinders</li><li style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#3b3f44;margin-bottom:8px;">Plastic bottles and Petri dishes</li><li style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#3b3f44;margin-bottom:8px;">Porcelain crucibles and evaporating dishes</li><li style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#3b3f44;margin-bottom:8px;">Microscopes and prepared slides</li><li style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#3b3f44;margin-bottom:0px;">Biology models</li></ul>'
+        # PHOTO STRIP - Packed with protective cells; Palletized and labeled; Documents prepared and checked
+        -
+          align: top
+          dist: '4-4-4'
+          gutter: 10px
+          id: a5e08646-06a3-40f4-9bb5-8ac76c293b71
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: section
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 22px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 22px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 49425ebe-e04b-4c73-8063-82fecd72f9e7
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 6px
+                  padding-right: 6px
+                  valign: top
+              content:
+                    -
+                      id: e97e1dd2-2e2b-4972-b08c-ea2bc9731278
+                      title: Image
+                      type: image
+                      layout:
+                        320px:
+                          max-width: 320px
+                          width: 100%
+                        default:
+                          align: center
+                          border-radius: 8px
+                          canvas-height: 125px
+                          padding-bottom: 6px
+                          padding-top: 0px
+                          valign: top
+                          width: 100%
+                      content:
+                        src: 'https://creative-assets.mailinblue.com/editor/image_placeholder.png'
+                    -
+                      id: 99f44d8b-ac9e-4632-b550-487b7c6b13f9
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:12px;color:#3b3f44;"><i>Packed with protective cells</i></span></p>'
+            -
+              id: 2ee07032-232e-4883-bedf-35f3c7d5b7da
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 6px
+                  padding-right: 6px
+                  valign: top
+              content:
+                    -
+                      id: e52d6ff7-d4c8-4946-9912-b0db5ad30d92
+                      title: Image
+                      type: image
+                      layout:
+                        320px:
+                          max-width: 320px
+                          width: 100%
+                        default:
+                          align: center
+                          border-radius: 8px
+                          canvas-height: 125px
+                          padding-bottom: 6px
+                          padding-top: 0px
+                          valign: top
+                          width: 100%
+                      content:
+                        src: 'https://creative-assets.mailinblue.com/editor/image_placeholder.png'
+                    -
+                      id: 5c103079-4491-4713-b376-fde92f998d53
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:12px;color:#3b3f44;"><i>Palletized and labeled</i></span></p>'
+            -
+              id: c2f9242a-4ee8-4513-b8c9-1c0a6f2b57e8
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 6px
+                  padding-right: 6px
+                  valign: top
+              content:
+                    -
+                      id: 5c5809b0-36a1-41f4-9567-f9c687446e93
+                      title: Image
+                      type: image
+                      layout:
+                        320px:
+                          max-width: 320px
+                          width: 100%
+                        default:
+                          align: center
+                          border-radius: 8px
+                          canvas-height: 125px
+                          padding-bottom: 6px
+                          padding-top: 0px
+                          valign: top
+                          width: 100%
+                      content:
+                        src: 'https://creative-assets.mailinblue.com/editor/image_placeholder.png'
+                    -
+                      id: 08818ffc-600d-40a9-8900-3c38577fb303
+                      thumbnail: /assets/img/editor/element_text.svg
+                      title: Text
+                      type: text
+                      layout:
+                        320px:
+                          width: 100%
+                        default:
+                          align: left
+                          line-height: '1.5'
+                          padding-bottom: 0px
+                          padding-top: 0px
+                          text-align: center
+                          text-valign: top
+                          valign: top
+                          width: 100%
+                      content: '<p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:12px;color:#3b3f44;"><i>Documents prepared and checked</i></span></p>'
+        -
+          align: top
+          dist: '12'
+          gutter: 30px
+          id: 83767587-feae-468c-8a3f-91d2b8cf85dc
+          moduleName: grid-row12
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: Banner
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              background-color: '#2b2626'
+              padding-bottom: 26px
+              padding-left: 20px
+              padding-right: 20px
+              padding-top: 26px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 12e6370f-c01e-44ec-a7ea-ad8f04bd6d3e
+              isEmpty: false
+              title: 'column 1'
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+              -
+                id: c9015649-6e42-4985-9ab2-663b8674ecfc
+                thumbnail: /assets/img/editor/element_text.svg
+                title: Text
+                type: text
+                layout:
+                  320px:
+                    width: 100%
+                  default:
+                    align: left
+                    line-height: '1.5'
+                    padding-bottom: 0px
+                    padding-top: 0px
+                    text-align: center
+                    text-valign: top
+                    valign: top
+                    width: 100%
+                content: '<p style="text-align:center;margin:0 0 6px 0;"><span style="font-family:Verdana, geneva, sans-serif;font-size:14px;color:#ffffff;"><strong>Not sure what to include?</strong></span></p><p style="text-align:center;margin:0;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#f2d4d2;">Send us your customers&#39; needs and we will suggest a starting mix and a packing plan.</span></p>'
+        -
+          align: top
+          block_id: 6
+          dist: '12'
+          gutter: 10px
+          id: f43c1503-0e7e-425c-a9ea-565c5ff7930b
+          thumbnail: /assets/img/editor/element-header.svg
+          title: Heading
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              background-color: '#a82d28'
+              padding-bottom: 0px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 0px
+              removePadding: false
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 56ea3c7d-423a-47e3-81c8-7eabbcd9ff31
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: grid-column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: e1ccffa3-63ee-43b3-8340-7fc7049f74f3
+                  title: Heading
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      direction: ltr
+                      line-height: '1.3'
+                      padding-bottom: 5px
+                      padding-top: 5px
+                      text-align: center
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<h2 class="default-heading2"><span style="color:#ffffff;font-family:Verdana, geneva, sans-serif;font-size:20px;"><strong>Stay Informed with MEDILAB Insights</strong></span></h2>'
+        -
+          align: top
+          dist: '12'
+          gutter: 30px
+          id: 420ea2eb-a2eb-412c-a452-681fcb82c94d
+          moduleName: grid-row12
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: section
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 15px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 20px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 7e929043-cae8-4433-9d1d-02f5946f763c
+              isEmpty: false
+              title: 'column 1'
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+              -
+                id: efb1511a-4651-45ec-9479-8b4933a645df
+                thumbnail: /assets/img/editor/element_text.svg
+                title: Text
+                type: text
+                layout:
+                  320px:
+                    width: 100%
+                  default:
+                    align: left
+                    line-height: '1.5'
+                    padding-bottom: 15px
+                    padding-top: 0px
+                    text-align: center
+                    text-valign: top
+                    valign: top
+                    width: 100%
+                content: '<p style="text-align:center;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;">Subscribe to MEDILAB Insights on LinkedIn for practical, easy to read insights on laboratory products, applications, quality standards and sourcing.</span></p>'
+              -
+                id: c464e991-47f9-42fb-9641-bf33b6f89fc8
+                text: '<p>Subscribe to MEDILAB Insights on LinkedIn</p>'
+                thumbnail: /assets/img/editor/element_button.svg
+                title: Button
+                type: text-button
+                layout:
+                  320px:
+                    width: 100%
+                  default:
+                    align: center
+                    border-color: '#a82d28'
+                    border-radius: 8px
+                    border-width: 1px
+                    item-height: 40px
+                    margin-bottom: 10px
+                    margin-top: 5px
+                    padding-bottom: 10px
+                    padding-left: 0px
+                    padding-right: 0px
+                    padding-top: 10px
+                    removeMargin: false
+                    removePadding: true
+                    text-align: center
+                    text-valign: top
+                    valign: top
+                    width: 300px
+                content:
+                  href: 'https://www.linkedin.com/company/medilab-exports-consortium'
+                  text: '<p>Subscribe to MEDILAB Insights on LinkedIn</p>'
+              -
+                id: 15841de9-5f03-4e6a-824e-e341b6b6b451
+                thumbnail: /assets/img/editor/element_text.svg
+                title: Text
+                type: text
+                layout:
+                  320px:
+                    width: 100%
+                  default:
+                    align: left
+                    line-height: '1.5'
+                    padding-bottom: 0px
+                    padding-top: 10px
+                    text-align: center
+                    text-valign: top
+                    valign: top
+                    width: 100%
+                content: '<p style="text-align:center;"><span style="font-family:Arial, helvetica, sans-serif;font-size:12px;color:#888888;"><i>Understand products better. Make more informed laboratory sourcing decisions.</i></span></p>'
+        -
+          align: top
+          block_id: 6
+          dist: '12'
+          gutter: 10px
+          id: ec8ad96e-3073-4744-a6cc-36c04d02daf4
+          thumbnail: /assets/img/editor/element-header.svg
+          title: Heading
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              background-color: '#a82d28'
+              padding-bottom: 0px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 0px
+              removePadding: false
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 72e11cbf-8c9a-41ea-a54f-74a8c3daa1fa
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: grid-column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: a1899fa0-6c18-4244-a262-bd64376c3c41
+                  title: Heading
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      direction: ltr
+                      line-height: '1.3'
+                      padding-bottom: 5px
+                      padding-top: 5px
+                      text-align: center
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<h2 class="default-heading2"><span style="color:#ffffff;font-family:Verdana, geneva, sans-serif;font-size:20px;"><strong>Ready to Build Your Shipment?</strong></span></h2>'
+        -
+          align: top
+          dist: '12'
+          gutter: 30px
+          id: b9a50c59-e933-4f0f-9966-f5f63009e563
+          moduleName: grid-row12
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: section
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 15px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 20px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 8a24be97-fec0-4e9b-bec2-f146a39270fb
+              isEmpty: false
+              title: 'column 1'
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+              -
+                id: 3b18d46d-da1f-40d9-aca1-d4797625f98b
+                thumbnail: /assets/img/editor/element_text.svg
+                title: Text
+                type: text
+                layout:
+                  320px:
+                    width: 100%
+                  default:
+                    align: left
+                    line-height: '1.5'
+                    padding-bottom: 15px
+                    padding-top: 0px
+                    text-align: center
+                    text-valign: top
+                    valign: top
+                    width: 100%
+                content: '<p style="text-align:center;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;">Send your product list or customer needs, and we will reply with a quotation, documents and a packing plan.</span></p>'
+              -
+                id: 590f1378-3706-401a-867e-8ccb263f95f8
+                text: '<p><span style="font-size:20px;"><strong>Build My Shipment</strong></span></p>'
+                thumbnail: /assets/img/editor/element_button.svg
+                title: Button
+                type: text-button
+                layout:
+                  320px:
+                    width: 100%
+                  default:
+                    align: center
+                    border-radius: 19px
+                    data-href: 'https://medilabexports.com/contact/'
+                    data-placeholder-href: 'https://medilabexports.com/contact/'
+                    item-height: 47px
+                    margin-bottom: 15px
+                    margin-top: 15px
+                    padding-bottom: 12px
+                    padding-top: 12px
+                    text-align: center
+                    text-valign: top
+                    type: absoluteLink
+                    valign: top
+                    width: 65%
+                content:
+                  href: 'https://medilabexports.com/contact/'
+                  text: '<p><span style="font-size:20px;"><strong>Build My Shipment</strong></span></p>'
+              -
+                id: 1a1c5493-33bc-4c7e-99e1-19ce5e530c16
+                thumbnail: /assets/img/editor/element_text.svg
+                title: Text
+                type: text
+                layout:
+                  320px:
+                    width: 100%
+                  default:
+                    align: left
+                    line-height: '1.6'
+                    padding-bottom: 0px
+                    padding-top: 5px
+                    text-align: center
+                    text-valign: top
+                    valign: top
+                    width: 100%
+                content: '<p style="text-align:center;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#3b3f44;">Email: info@medilabexports.com</span><br><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#3b3f44;">Website: </span><a href="https://medilabexports.com/"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:rgb(185,116,116);"><u>www.medilabexports.com</u></span></a><br><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:#3b3f44;">Glassware: </span><a href="https://medilabglassware.com/"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;color:rgb(185,116,116);"><u>www.medilabglassware.com</u></span></a></p>'
+        -
+          align: top
+          dist: '12'
+          gutter: 30px
+          id: fd021ba4-ea16-4ba9-99ed-616fcf4ace85
+          moduleName: grid-row12
+          thumbnail: /assets/img/editor/grid_12.svg
+          title: section
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              padding-bottom: 0px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 5px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 669cfedd-da03-48fe-aeaa-82d43bf24b05
+              isEmpty: false
+              title: 'column 1'
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+              -
+                id: 7f8f33d2-4f9c-4dc7-88f5-70e76420747b
+                thumbnail: /assets/img/editor/element_text.svg
+                title: Text
+                type: text
+                layout:
+                  320px:
+                    width: 100%
+                  default:
+                    align: left
+                    line-height: '1.5'
+                    padding-bottom: 15px
+                    padding-top: 15px
+                    text-align: center
+                    text-valign: top
+                    valign: top
+                    width: 100%
+                content: '<p><span style="color:#0d0d0d;font-size:13px;"><i>MEDILAB: Excellence in Labware.</i></span></p>'
+        -
+          align: top
+          dist: 7-5
+          gutter: 10px
+          id: 74dde8f5-dc5b-4b63-bc39-1c1b0951c576
+          thumbnail: /assets/img/editor/element-header.svg
+          title: Socials
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              background-color: '#f9fafc'
+              padding-bottom: 20px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 20px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 535d8c6e-138e-4be6-bdea-bc6e84648f72
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: grid-column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: d093feee-47f2-4335-9cc1-3e7013257370
+                  title: Text
+                  type: text
+                  layout:
+                    320px:
+                      padding-bottom: 20px
+                      text-align: center
+                      width: 100%
+                    default:
+                      align: left
+                      line-height: '1.5'
+                      padding-left: 20px
+                      padding-right: 20px
+                      text-align: left
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<p style="color:#888888;font-family:&#39;Montserrat&#39;,&#39;Arial&#39;,Helvetica,sans-serif;font-size:14px;"><span style="color:#A82D28;font-family:Arial, helvetica, sans-serif;font-size:13px;"><strong>MEDILAB EXPORTS CONSORTIUM</strong></span><br><span style="color:#0d0d0d;font-family:Arial, helvetica, sans-serif;font-size:13px;">17, HSIIDC Industrial Estate,</span><br><span style="color:#0d0d0d;font-family:Arial, helvetica, sans-serif;font-size:13px;">Ambala Cantt - 133006 (INDIA)</span><br><span style="color:#0d0d0d;font-family:Arial, helvetica, sans-serif;font-size:13px;">Tel./WhatsApp: +91-9817997500</span><br><span style="color:#0d0d0d;font-family:Arial, helvetica, sans-serif;font-size:13px;">E-Mail:</span><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;"> </span><a href="mailto:info@medilabexports.com?subject=Re%20%3A%20Inquiry%20-%20"><span style="color:rgb(185,116,116);font-family:Arial, helvetica, sans-serif;font-size:13px;"><u>info@medilabexports.com</u></span></a><br><span style="color:#0d0d0d;font-family:Arial, helvetica, sans-serif;font-size:13px;">Website</span><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;">: </span><a href="https://medilabexports.com/"><span style="color:rgb(185,116,116);font-family:Arial, helvetica, sans-serif;font-size:13px;"><u>www.medilabexports.com</u></span></a></p>'
+            -
+              id: a6614dfc-d8fa-43f5-bed1-171f86b52b09
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: grid-column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: 732b607f-7276-4f8a-a927-68d8e86f1e42
+                  title: Social
+                  type: social-media-group
+                  layout:
+                    320px:
+                      align: center
+                      icon-size: 32px
+                      icon-spacing: 8px
+                      width: 100%
+                    default:
+                      align: center
+                      icon-filter: bw
+                      icon-form: rounded
+                      icon-size: 32px
+                      icon-spacing: 30px
+                      icons: update
+                      margin-bottom: 0px
+                      margin-top: 0px
+                      padding-bottom: 0px
+                      padding-left: 0px
+                      padding-right: 0px
+                      padding-top: 0px
+                      removeMargin: false
+                      removePadding: true
+                      width: 100%
+                  content:
+                    -
+                      id: 5bf5bc21-3a7a-4e1e-8ca9-0dfdffd46dee
+                      role: facebook
+                      src: 'https://creative-assets.mailinblue.com/editor/social-icons/rounded_bw/facebook_32px.png'
+                      title: facebook-media
+                      type: social-media
+                      layout:
+                        320px:
+                          icon-spacing: 8px
+                        default:
+                          padding-bottom: 5px
+                          padding-top: 5px
+                          title: facebook-media
+                      content:
+                        href: 'https://www.facebook.com/Medilabexports/'
+                        src: 'https://creative-assets.mailinblue.com/editor/social-icons/rounded_bw/facebook_32px.png'
+                    -
+                      id: 209e2d45-00e0-4d48-bee6-886a51dfb321
+                      role: linkedin
+                      src: 'https://creative-assets.mailinblue.com/editor/social-icons/rounded_bw/linkedin_32px.png'
+                      title: linkedin-media
+                      type: social-media
+                      layout:
+                        320px:
+                          icon-spacing: 8px
+                        default:
+                          padding-bottom: 5px
+                          padding-top: 5px
+                          title: linkedin-media
+                      content:
+                        href: 'https://www.linkedin.com/company/medilab-exports-consortium'
+                        src: 'https://creative-assets.mailinblue.com/editor/social-icons/rounded_bw/linkedin_32px.png'
+                    -
+                      id: a3d19f23-034b-406e-999e-699a5371df37
+                      role: instagram
+                      src: 'https://creative-assets.mailinblue.com/editor/social-icons/rounded_bw/instagram_32px.png'
+                      title: instagram-media
+                      type: social-media
+                      layout:
+                        320px:
+                          icon-spacing: 8px
+                        default:
+                          padding-bottom: 5px
+                          padding-top: 5px
+                          title: instagram-media
+                      content:
+                        href: 'https://www.instagram.com/medilabexports.india/'
+                        src: 'https://creative-assets.mailinblue.com/editor/social-icons/rounded_bw/instagram_32px.png'
+                    -
+                      id: 8f23df81-1c1a-44ef-98f5-7e512527c91a
+                      role: whatsapp
+                      src: 'https://creative-assets.mailinblue.com/editor/social-icons/rounded_bw/whatsapp_32px.png'
+                      title: whatsapp-media
+                      type: social-media
+                      layout:
+                        320px:
+                          icon-spacing: 8px
+                        default:
+                          padding-bottom: 5px
+                          padding-top: 5px
+                          title: whatsapp-media
+                      content:
+                        href: 'http://wa.me/919817997500'
+                        src: 'https://creative-assets.mailinblue.com/editor/social-icons/rounded_bw/whatsapp_32px.png'
+        -
+          align: top
+          block_id: 4
+          dist: '12'
+          gutter: 0px
+          id: 7ca31336-3f05-4fbe-8a92-c1ac5f397b3b
+          thumbnail: /assets/img/editor/element-header.svg
+          title: Copyright
+          type: grid-row
+          layout:
+            320px:
+              display: rows
+              padding-left: 15px
+              padding-right: 15px
+              width: 100%
+            default:
+              align: center
+              background-color: '#f9fafc'
+              padding-bottom: 10px
+              padding-left: 0px
+              padding-right: 0px
+              padding-top: 10px
+              valign: top
+              width: 100%
+          content:
+            -
+              id: 7444c1d6-f095-4cdf-b69a-30f5f82449e1
+              imagelabel: 'Select a content type'
+              isEmpty: false
+              label: 'Drop content here'
+              title: grid-column
+              type: grid-column
+              layout:
+                320px: []
+                default:
+                  padding-left: 0px
+                  padding-right: 0px
+                  valign: top
+              content:
+                -
+                  id: 97531dca-374e-49ff-89b4-1486cd8279f4
+                  title: Text
+                  type: text
+                  layout:
+                    320px:
+                      width: 100%
+                    default:
+                      align: left
+                      text-align: center
+                      text-valign: top
+                      valign: top
+                      width: 100%
+                  content: '<p style="color:#888888;font-family:&#39;Montserrat&#39;,&#39;Arial&#39;,Helvetica,sans-serif;font-size:14px;"><span style="font-family:Arial, helvetica, sans-serif;font-size:13px;">© 2026 &nbsp;MEDILAB EXPORTS CONSORTIUM</span></p>'
+
+media:
+  320px:
+    max-width: 600
+    min-width: 0
+styles:
+  default:
+    properties:
+      color: '#3b3f44'
+      font-family: 'arial,helvetica,sans-serif'
+      font-size: 16px
+    title: Paragraph
+  default-button:
+    properties:
+      background-color: '#1f1b1b'
+      border-color: '#1f1b1b'
+      border-radius: 4px
+      border-width: 0px
+      color: '#fff'
+      font-family: 'arial,helvetica,sans-serif'
+      font-size: 16px
+      remove-vml-button: optional
+      width: 50%
+    title: Button
+  default-heading1:
+    properties:
+      color: '#1F2D3D'
+      font-family: 'arial,helvetica,sans-serif'
+      font-size: 36px
+    title: 'Heading 1'
+  default-heading2:
+    properties:
+      color: '#1F2D3D'
+      font-family: 'arial,helvetica,sans-serif'
+      font-size: 32px
+    title: 'Heading 2'
+  default-heading3:
+    properties:
+      color: '#1F2D3D'
+      font-family: 'arial,helvetica,sans-serif'
+      font-size: 24px
+    title: 'Heading 3'
+  default-heading4:
+    properties:
+      color: '#1F2D3D'
+      font-family: 'arial,helvetica,sans-serif'
+      font-size: 18px
+    title: 'Heading 4'
+  default-link:
+    properties:
+      color: '#1f1b1b'
+      text-decoration: underline
+    title: Link
